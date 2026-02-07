@@ -39,7 +39,7 @@ export const Dashboard: React.FC = () => {
             <ResumeCard
               nextPage={nextPage}
               totalPages={goal.mushaf.totalPages}
-              surah={pageInfo?.surah}
+              surah={pageInfo?.surahs[0]?.name}
               juz={pageInfo?.juz}
             />
           )}

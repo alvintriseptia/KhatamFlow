@@ -1,10 +1,16 @@
 import { useState, useEffect } from 'react';
 import mushafData from '@/data/mushaf/madinah-604.json';
 
+export interface SurahInfo {
+  number: number;
+  name: string;
+  transliteration: string;
+  revelationType: string;
+}
+
 export interface PageInfo {
   page: number;
-  surah: string;
-  surahNumber: number;
+  surahs: SurahInfo[];
   juz: number;
   startAyah: string;
   endAyah: string;
