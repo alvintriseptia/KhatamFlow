@@ -1,0 +1,5444 @@
+{
+  "type": "madinah",
+  "totalPages": 604,
+  "description": "Madinah Mushaf (King Fahd Complex) - 604 pages, 15 lines per page",
+  "generatedAt": "2026-02-07T10:17:18.869Z",
+  "pages": [
+    {
+      "page": 1,
+      "surah": "Al-Faatiha",
+      "surahNumber": 1,
+      "juz": 1,
+      "startAyah": "1:1",
+      "endAyah": "1:7",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 2,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:1",
+      "endAyah": "2:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 3,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:6",
+      "endAyah": "2:16",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 4,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:17",
+      "endAyah": "2:24",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 5,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:25",
+      "endAyah": "2:29",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 6,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:30",
+      "endAyah": "2:37",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 7,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:38",
+      "endAyah": "2:48",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 8,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:49",
+      "endAyah": "2:57",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 9,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:58",
+      "endAyah": "2:61",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 10,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:62",
+      "endAyah": "2:69",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 11,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:70",
+      "endAyah": "2:76",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 12,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:77",
+      "endAyah": "2:83",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 13,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:84",
+      "endAyah": "2:88",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 14,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:89",
+      "endAyah": "2:93",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 15,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:94",
+      "endAyah": "2:101",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 16,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:102",
+      "endAyah": "2:105",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 17,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:106",
+      "endAyah": "2:112",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 18,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:113",
+      "endAyah": "2:119",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 19,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:120",
+      "endAyah": "2:126",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 20,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:127",
+      "endAyah": "2:134",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 21,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 1,
+      "startAyah": "2:135",
+      "endAyah": "2:141",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 22,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:142",
+      "endAyah": "2:145",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 23,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:146",
+      "endAyah": "2:153",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 24,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:154",
+      "endAyah": "2:163",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 25,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:164",
+      "endAyah": "2:169",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 26,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:170",
+      "endAyah": "2:176",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 27,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:177",
+      "endAyah": "2:181",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 28,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:182",
+      "endAyah": "2:186",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 29,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:187",
+      "endAyah": "2:190",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 30,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:191",
+      "endAyah": "2:196",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 31,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:197",
+      "endAyah": "2:202",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 32,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:203",
+      "endAyah": "2:210",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 33,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:211",
+      "endAyah": "2:215",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 34,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:216",
+      "endAyah": "2:219",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 35,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:220",
+      "endAyah": "2:224",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 36,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:225",
+      "endAyah": "2:230",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 37,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:231",
+      "endAyah": "2:233",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 38,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:234",
+      "endAyah": "2:237",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 39,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:238",
+      "endAyah": "2:245",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 40,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:246",
+      "endAyah": "2:248",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 41,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 2,
+      "startAyah": "2:249",
+      "endAyah": "2:252",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 42,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 3,
+      "startAyah": "2:253",
+      "endAyah": "2:256",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 43,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 3,
+      "startAyah": "2:257",
+      "endAyah": "2:259",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 44,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 3,
+      "startAyah": "2:260",
+      "endAyah": "2:264",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 45,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 3,
+      "startAyah": "2:265",
+      "endAyah": "2:269",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 46,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 3,
+      "startAyah": "2:270",
+      "endAyah": "2:274",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 47,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 3,
+      "startAyah": "2:275",
+      "endAyah": "2:281",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 48,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 3,
+      "startAyah": "2:282",
+      "endAyah": "2:282",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 49,
+      "surah": "Al-Baqara",
+      "surahNumber": 2,
+      "juz": 3,
+      "startAyah": "2:283",
+      "endAyah": "2:286",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 50,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 3,
+      "startAyah": "3:1",
+      "endAyah": "3:9",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 51,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 3,
+      "startAyah": "3:10",
+      "endAyah": "3:15",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 52,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 3,
+      "startAyah": "3:16",
+      "endAyah": "3:22",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 53,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 3,
+      "startAyah": "3:23",
+      "endAyah": "3:29",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 54,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 3,
+      "startAyah": "3:30",
+      "endAyah": "3:37",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 55,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 3,
+      "startAyah": "3:38",
+      "endAyah": "3:45",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 56,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 3,
+      "startAyah": "3:46",
+      "endAyah": "3:52",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 57,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 3,
+      "startAyah": "3:53",
+      "endAyah": "3:61",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 58,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 3,
+      "startAyah": "3:62",
+      "endAyah": "3:70",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 59,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 3,
+      "startAyah": "3:71",
+      "endAyah": "3:77",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 60,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 3,
+      "startAyah": "3:78",
+      "endAyah": "3:83",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 61,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 3,
+      "startAyah": "3:84",
+      "endAyah": "3:91",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 62,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:92",
+      "endAyah": "3:100",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 63,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:101",
+      "endAyah": "3:108",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 64,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:109",
+      "endAyah": "3:115",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 65,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:116",
+      "endAyah": "3:121",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 66,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:122",
+      "endAyah": "3:132",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 67,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:133",
+      "endAyah": "3:140",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 68,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:141",
+      "endAyah": "3:148",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 69,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:149",
+      "endAyah": "3:153",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 70,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:154",
+      "endAyah": "3:157",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 71,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:158",
+      "endAyah": "3:165",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 72,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:166",
+      "endAyah": "3:173",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 73,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:174",
+      "endAyah": "3:180",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 74,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:181",
+      "endAyah": "3:186",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 75,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:187",
+      "endAyah": "3:194",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 76,
+      "surah": "Aal-i-Imraan",
+      "surahNumber": 3,
+      "juz": 4,
+      "startAyah": "3:195",
+      "endAyah": "3:200",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 77,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 4,
+      "startAyah": "4:1",
+      "endAyah": "4:6",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 78,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 4,
+      "startAyah": "4:7",
+      "endAyah": "4:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 79,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 4,
+      "startAyah": "4:12",
+      "endAyah": "4:14",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 80,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 4,
+      "startAyah": "4:15",
+      "endAyah": "4:19",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 81,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 4,
+      "startAyah": "4:20",
+      "endAyah": "4:23",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 82,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:24",
+      "endAyah": "4:26",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 83,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:27",
+      "endAyah": "4:33",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 84,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:34",
+      "endAyah": "4:37",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 85,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:38",
+      "endAyah": "4:44",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 86,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:45",
+      "endAyah": "4:51",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 87,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:52",
+      "endAyah": "4:59",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 88,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:60",
+      "endAyah": "4:65",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 89,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:66",
+      "endAyah": "4:74",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 90,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:75",
+      "endAyah": "4:79",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 91,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:80",
+      "endAyah": "4:86",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 92,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:87",
+      "endAyah": "4:91",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 93,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:92",
+      "endAyah": "4:94",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 94,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:95",
+      "endAyah": "4:101",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 95,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:102",
+      "endAyah": "4:105",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 96,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:106",
+      "endAyah": "4:113",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 97,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:114",
+      "endAyah": "4:121",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 98,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:122",
+      "endAyah": "4:127",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 99,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:128",
+      "endAyah": "4:134",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 100,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:135",
+      "endAyah": "4:140",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 101,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 5,
+      "startAyah": "4:141",
+      "endAyah": "4:147",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 102,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 6,
+      "startAyah": "4:148",
+      "endAyah": "4:154",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 103,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 6,
+      "startAyah": "4:155",
+      "endAyah": "4:162",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 104,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 6,
+      "startAyah": "4:163",
+      "endAyah": "4:170",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 105,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 6,
+      "startAyah": "4:171",
+      "endAyah": "4:175",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 106,
+      "surah": "An-Nisaa",
+      "surahNumber": 4,
+      "juz": 6,
+      "startAyah": "4:176",
+      "endAyah": "5:2",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 107,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:3",
+      "endAyah": "5:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 108,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:6",
+      "endAyah": "5:9",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 109,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:10",
+      "endAyah": "5:13",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 110,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:14",
+      "endAyah": "5:17",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 111,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:18",
+      "endAyah": "5:23",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 112,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:24",
+      "endAyah": "5:31",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 113,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:32",
+      "endAyah": "5:36",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 114,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:37",
+      "endAyah": "5:41",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 115,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:42",
+      "endAyah": "5:45",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 116,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:46",
+      "endAyah": "5:50",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 117,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:51",
+      "endAyah": "5:57",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 118,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:58",
+      "endAyah": "5:64",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 119,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:65",
+      "endAyah": "5:70",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 120,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:71",
+      "endAyah": "5:76",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 121,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 6,
+      "startAyah": "5:77",
+      "endAyah": "5:82",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 122,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 7,
+      "startAyah": "5:83",
+      "endAyah": "5:89",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 123,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 7,
+      "startAyah": "5:90",
+      "endAyah": "5:95",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 124,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 7,
+      "startAyah": "5:96",
+      "endAyah": "5:103",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 125,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 7,
+      "startAyah": "5:104",
+      "endAyah": "5:108",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 126,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 7,
+      "startAyah": "5:109",
+      "endAyah": "5:113",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 127,
+      "surah": "Al-Maaida",
+      "surahNumber": 5,
+      "juz": 7,
+      "startAyah": "5:114",
+      "endAyah": "5:120",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 128,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:1",
+      "endAyah": "6:8",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 129,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:9",
+      "endAyah": "6:18",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 130,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:19",
+      "endAyah": "6:27",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 131,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:28",
+      "endAyah": "6:35",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 132,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:36",
+      "endAyah": "6:44",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 133,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:45",
+      "endAyah": "6:52",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 134,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:53",
+      "endAyah": "6:59",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 135,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:60",
+      "endAyah": "6:68",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 136,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:69",
+      "endAyah": "6:73",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 137,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:74",
+      "endAyah": "6:81",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 138,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:82",
+      "endAyah": "6:90",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 139,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:91",
+      "endAyah": "6:94",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 140,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:95",
+      "endAyah": "6:101",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 141,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 7,
+      "startAyah": "6:102",
+      "endAyah": "6:110",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 142,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 8,
+      "startAyah": "6:111",
+      "endAyah": "6:118",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 143,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 8,
+      "startAyah": "6:119",
+      "endAyah": "6:124",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 144,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 8,
+      "startAyah": "6:125",
+      "endAyah": "6:131",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 145,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 8,
+      "startAyah": "6:132",
+      "endAyah": "6:137",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 146,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 8,
+      "startAyah": "6:138",
+      "endAyah": "6:142",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 147,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 8,
+      "startAyah": "6:143",
+      "endAyah": "6:146",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 148,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 8,
+      "startAyah": "6:147",
+      "endAyah": "6:151",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 149,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 8,
+      "startAyah": "6:152",
+      "endAyah": "6:157",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 150,
+      "surah": "Al-An'aam",
+      "surahNumber": 6,
+      "juz": 8,
+      "startAyah": "6:158",
+      "endAyah": "6:165",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 151,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 8,
+      "startAyah": "7:1",
+      "endAyah": "7:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 152,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 8,
+      "startAyah": "7:12",
+      "endAyah": "7:22",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 153,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 8,
+      "startAyah": "7:23",
+      "endAyah": "7:30",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 154,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 8,
+      "startAyah": "7:31",
+      "endAyah": "7:37",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 155,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 8,
+      "startAyah": "7:38",
+      "endAyah": "7:43",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 156,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 8,
+      "startAyah": "7:44",
+      "endAyah": "7:51",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 157,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 8,
+      "startAyah": "7:52",
+      "endAyah": "7:57",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 158,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 8,
+      "startAyah": "7:58",
+      "endAyah": "7:67",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 159,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 8,
+      "startAyah": "7:68",
+      "endAyah": "7:73",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 160,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 8,
+      "startAyah": "7:74",
+      "endAyah": "7:81",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 161,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 8,
+      "startAyah": "7:82",
+      "endAyah": "7:87",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 162,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:88",
+      "endAyah": "7:95",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 163,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:96",
+      "endAyah": "7:104",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 164,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:105",
+      "endAyah": "7:120",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 165,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:121",
+      "endAyah": "7:130",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 166,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:131",
+      "endAyah": "7:137",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 167,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:138",
+      "endAyah": "7:143",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 168,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:144",
+      "endAyah": "7:149",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 169,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:150",
+      "endAyah": "7:155",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 170,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:156",
+      "endAyah": "7:159",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 171,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:160",
+      "endAyah": "7:163",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 172,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:164",
+      "endAyah": "7:170",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 173,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:171",
+      "endAyah": "7:178",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 174,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:179",
+      "endAyah": "7:187",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 175,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:188",
+      "endAyah": "7:195",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 176,
+      "surah": "Al-A'raaf",
+      "surahNumber": 7,
+      "juz": 9,
+      "startAyah": "7:196",
+      "endAyah": "7:206",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 177,
+      "surah": "Al-Anfaal",
+      "surahNumber": 8,
+      "juz": 9,
+      "startAyah": "8:1",
+      "endAyah": "8:8",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 178,
+      "surah": "Al-Anfaal",
+      "surahNumber": 8,
+      "juz": 9,
+      "startAyah": "8:9",
+      "endAyah": "8:16",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 179,
+      "surah": "Al-Anfaal",
+      "surahNumber": 8,
+      "juz": 9,
+      "startAyah": "8:17",
+      "endAyah": "8:25",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 180,
+      "surah": "Al-Anfaal",
+      "surahNumber": 8,
+      "juz": 9,
+      "startAyah": "8:26",
+      "endAyah": "8:33",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 181,
+      "surah": "Al-Anfaal",
+      "surahNumber": 8,
+      "juz": 9,
+      "startAyah": "8:34",
+      "endAyah": "8:40",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 182,
+      "surah": "Al-Anfaal",
+      "surahNumber": 8,
+      "juz": 10,
+      "startAyah": "8:41",
+      "endAyah": "8:45",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 183,
+      "surah": "Al-Anfaal",
+      "surahNumber": 8,
+      "juz": 10,
+      "startAyah": "8:46",
+      "endAyah": "8:52",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 184,
+      "surah": "Al-Anfaal",
+      "surahNumber": 8,
+      "juz": 10,
+      "startAyah": "8:53",
+      "endAyah": "8:61",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 185,
+      "surah": "Al-Anfaal",
+      "surahNumber": 8,
+      "juz": 10,
+      "startAyah": "8:62",
+      "endAyah": "8:69",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 186,
+      "surah": "Al-Anfaal",
+      "surahNumber": 8,
+      "juz": 10,
+      "startAyah": "8:70",
+      "endAyah": "8:75",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 187,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:1",
+      "endAyah": "9:6",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 188,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:7",
+      "endAyah": "9:13",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 189,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:14",
+      "endAyah": "9:20",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 190,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:21",
+      "endAyah": "9:26",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 191,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:27",
+      "endAyah": "9:31",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 192,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:32",
+      "endAyah": "9:36",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 193,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:37",
+      "endAyah": "9:40",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 194,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:41",
+      "endAyah": "9:47",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 195,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:48",
+      "endAyah": "9:54",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 196,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:55",
+      "endAyah": "9:61",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 197,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:62",
+      "endAyah": "9:68",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 198,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:69",
+      "endAyah": "9:72",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 199,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:73",
+      "endAyah": "9:79",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 200,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:80",
+      "endAyah": "9:86",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 201,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 10,
+      "startAyah": "9:87",
+      "endAyah": "9:93",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 202,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 11,
+      "startAyah": "9:94",
+      "endAyah": "9:99",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 203,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 11,
+      "startAyah": "9:100",
+      "endAyah": "9:106",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 204,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 11,
+      "startAyah": "9:107",
+      "endAyah": "9:111",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 205,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 11,
+      "startAyah": "9:112",
+      "endAyah": "9:117",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 206,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 11,
+      "startAyah": "9:118",
+      "endAyah": "9:122",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 207,
+      "surah": "At-Tawba",
+      "surahNumber": 9,
+      "juz": 11,
+      "startAyah": "9:123",
+      "endAyah": "9:129",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 208,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:1",
+      "endAyah": "10:6",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 209,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:7",
+      "endAyah": "10:14",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 210,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:15",
+      "endAyah": "10:20",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 211,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:21",
+      "endAyah": "10:25",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 212,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:26",
+      "endAyah": "10:33",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 213,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:34",
+      "endAyah": "10:42",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 214,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:43",
+      "endAyah": "10:53",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 215,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:54",
+      "endAyah": "10:61",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 216,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:62",
+      "endAyah": "10:70",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 217,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:71",
+      "endAyah": "10:78",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 218,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:79",
+      "endAyah": "10:88",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 219,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:89",
+      "endAyah": "10:97",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 220,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:98",
+      "endAyah": "10:106",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 221,
+      "surah": "Yunus",
+      "surahNumber": 10,
+      "juz": 11,
+      "startAyah": "10:107",
+      "endAyah": "11:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 222,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:6",
+      "endAyah": "11:12",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 223,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:13",
+      "endAyah": "11:19",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 224,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:20",
+      "endAyah": "11:28",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 225,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:29",
+      "endAyah": "11:37",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 226,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:38",
+      "endAyah": "11:45",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 227,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:46",
+      "endAyah": "11:53",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 228,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:54",
+      "endAyah": "11:62",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 229,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:63",
+      "endAyah": "11:71",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 230,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:72",
+      "endAyah": "11:81",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 231,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:82",
+      "endAyah": "11:88",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 232,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:89",
+      "endAyah": "11:97",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 233,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:98",
+      "endAyah": "11:108",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 234,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:109",
+      "endAyah": "11:117",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 235,
+      "surah": "Hud",
+      "surahNumber": 11,
+      "juz": 12,
+      "startAyah": "11:118",
+      "endAyah": "12:4",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 236,
+      "surah": "Yusuf",
+      "surahNumber": 12,
+      "juz": 12,
+      "startAyah": "12:5",
+      "endAyah": "12:14",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 237,
+      "surah": "Yusuf",
+      "surahNumber": 12,
+      "juz": 12,
+      "startAyah": "12:15",
+      "endAyah": "12:22",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 238,
+      "surah": "Yusuf",
+      "surahNumber": 12,
+      "juz": 12,
+      "startAyah": "12:23",
+      "endAyah": "12:30",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 239,
+      "surah": "Yusuf",
+      "surahNumber": 12,
+      "juz": 12,
+      "startAyah": "12:31",
+      "endAyah": "12:37",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 240,
+      "surah": "Yusuf",
+      "surahNumber": 12,
+      "juz": 12,
+      "startAyah": "12:38",
+      "endAyah": "12:43",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 241,
+      "surah": "Yusuf",
+      "surahNumber": 12,
+      "juz": 12,
+      "startAyah": "12:44",
+      "endAyah": "12:52",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 242,
+      "surah": "Yusuf",
+      "surahNumber": 12,
+      "juz": 13,
+      "startAyah": "12:53",
+      "endAyah": "12:63",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 243,
+      "surah": "Yusuf",
+      "surahNumber": 12,
+      "juz": 13,
+      "startAyah": "12:64",
+      "endAyah": "12:69",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 244,
+      "surah": "Yusuf",
+      "surahNumber": 12,
+      "juz": 13,
+      "startAyah": "12:70",
+      "endAyah": "12:78",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 245,
+      "surah": "Yusuf",
+      "surahNumber": 12,
+      "juz": 13,
+      "startAyah": "12:79",
+      "endAyah": "12:86",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 246,
+      "surah": "Yusuf",
+      "surahNumber": 12,
+      "juz": 13,
+      "startAyah": "12:87",
+      "endAyah": "12:95",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 247,
+      "surah": "Yusuf",
+      "surahNumber": 12,
+      "juz": 13,
+      "startAyah": "12:96",
+      "endAyah": "12:103",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 248,
+      "surah": "Yusuf",
+      "surahNumber": 12,
+      "juz": 13,
+      "startAyah": "12:104",
+      "endAyah": "12:111",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 249,
+      "surah": "Ar-Ra'd",
+      "surahNumber": 13,
+      "juz": 13,
+      "startAyah": "13:1",
+      "endAyah": "13:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 250,
+      "surah": "Ar-Ra'd",
+      "surahNumber": 13,
+      "juz": 13,
+      "startAyah": "13:6",
+      "endAyah": "13:13",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 251,
+      "surah": "Ar-Ra'd",
+      "surahNumber": 13,
+      "juz": 13,
+      "startAyah": "13:14",
+      "endAyah": "13:18",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 252,
+      "surah": "Ar-Ra'd",
+      "surahNumber": 13,
+      "juz": 13,
+      "startAyah": "13:19",
+      "endAyah": "13:28",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 253,
+      "surah": "Ar-Ra'd",
+      "surahNumber": 13,
+      "juz": 13,
+      "startAyah": "13:29",
+      "endAyah": "13:34",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 254,
+      "surah": "Ar-Ra'd",
+      "surahNumber": 13,
+      "juz": 13,
+      "startAyah": "13:35",
+      "endAyah": "13:42",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 255,
+      "surah": "Ar-Ra'd",
+      "surahNumber": 13,
+      "juz": 13,
+      "startAyah": "13:43",
+      "endAyah": "14:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 256,
+      "surah": "Ibrahim",
+      "surahNumber": 14,
+      "juz": 13,
+      "startAyah": "14:6",
+      "endAyah": "14:10",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 257,
+      "surah": "Ibrahim",
+      "surahNumber": 14,
+      "juz": 13,
+      "startAyah": "14:11",
+      "endAyah": "14:18",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 258,
+      "surah": "Ibrahim",
+      "surahNumber": 14,
+      "juz": 13,
+      "startAyah": "14:19",
+      "endAyah": "14:24",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 259,
+      "surah": "Ibrahim",
+      "surahNumber": 14,
+      "juz": 13,
+      "startAyah": "14:25",
+      "endAyah": "14:33",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 260,
+      "surah": "Ibrahim",
+      "surahNumber": 14,
+      "juz": 13,
+      "startAyah": "14:34",
+      "endAyah": "14:42",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 261,
+      "surah": "Ibrahim",
+      "surahNumber": 14,
+      "juz": 13,
+      "startAyah": "14:43",
+      "endAyah": "14:52",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 262,
+      "surah": "Al-Hijr",
+      "surahNumber": 15,
+      "juz": 14,
+      "startAyah": "15:1",
+      "endAyah": "15:15",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 263,
+      "surah": "Al-Hijr",
+      "surahNumber": 15,
+      "juz": 14,
+      "startAyah": "15:16",
+      "endAyah": "15:31",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 264,
+      "surah": "Al-Hijr",
+      "surahNumber": 15,
+      "juz": 14,
+      "startAyah": "15:32",
+      "endAyah": "15:51",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 265,
+      "surah": "Al-Hijr",
+      "surahNumber": 15,
+      "juz": 14,
+      "startAyah": "15:52",
+      "endAyah": "15:70",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 266,
+      "surah": "Al-Hijr",
+      "surahNumber": 15,
+      "juz": 14,
+      "startAyah": "15:71",
+      "endAyah": "15:90",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 267,
+      "surah": "Al-Hijr",
+      "surahNumber": 15,
+      "juz": 14,
+      "startAyah": "15:91",
+      "endAyah": "16:6",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 268,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:7",
+      "endAyah": "16:14",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 269,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:15",
+      "endAyah": "16:26",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 270,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:27",
+      "endAyah": "16:34",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 271,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:35",
+      "endAyah": "16:42",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 272,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:43",
+      "endAyah": "16:54",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 273,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:55",
+      "endAyah": "16:64",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 274,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:65",
+      "endAyah": "16:72",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 275,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:73",
+      "endAyah": "16:79",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 276,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:80",
+      "endAyah": "16:87",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 277,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:88",
+      "endAyah": "16:93",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 278,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:94",
+      "endAyah": "16:102",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 279,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:103",
+      "endAyah": "16:110",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 280,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:111",
+      "endAyah": "16:118",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 281,
+      "surah": "An-Nahl",
+      "surahNumber": 16,
+      "juz": 14,
+      "startAyah": "16:119",
+      "endAyah": "16:128",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 282,
+      "surah": "Al-Israa",
+      "surahNumber": 17,
+      "juz": 15,
+      "startAyah": "17:1",
+      "endAyah": "17:7",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 283,
+      "surah": "Al-Israa",
+      "surahNumber": 17,
+      "juz": 15,
+      "startAyah": "17:8",
+      "endAyah": "17:17",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 284,
+      "surah": "Al-Israa",
+      "surahNumber": 17,
+      "juz": 15,
+      "startAyah": "17:18",
+      "endAyah": "17:27",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 285,
+      "surah": "Al-Israa",
+      "surahNumber": 17,
+      "juz": 15,
+      "startAyah": "17:28",
+      "endAyah": "17:38",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 286,
+      "surah": "Al-Israa",
+      "surahNumber": 17,
+      "juz": 15,
+      "startAyah": "17:39",
+      "endAyah": "17:49",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 287,
+      "surah": "Al-Israa",
+      "surahNumber": 17,
+      "juz": 15,
+      "startAyah": "17:50",
+      "endAyah": "17:58",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 288,
+      "surah": "Al-Israa",
+      "surahNumber": 17,
+      "juz": 15,
+      "startAyah": "17:59",
+      "endAyah": "17:66",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 289,
+      "surah": "Al-Israa",
+      "surahNumber": 17,
+      "juz": 15,
+      "startAyah": "17:67",
+      "endAyah": "17:75",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 290,
+      "surah": "Al-Israa",
+      "surahNumber": 17,
+      "juz": 15,
+      "startAyah": "17:76",
+      "endAyah": "17:86",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 291,
+      "surah": "Al-Israa",
+      "surahNumber": 17,
+      "juz": 15,
+      "startAyah": "17:87",
+      "endAyah": "17:96",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 292,
+      "surah": "Al-Israa",
+      "surahNumber": 17,
+      "juz": 15,
+      "startAyah": "17:97",
+      "endAyah": "17:104",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 293,
+      "surah": "Al-Israa",
+      "surahNumber": 17,
+      "juz": 15,
+      "startAyah": "17:105",
+      "endAyah": "18:4",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 294,
+      "surah": "Al-Kahf",
+      "surahNumber": 18,
+      "juz": 15,
+      "startAyah": "18:5",
+      "endAyah": "18:15",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 295,
+      "surah": "Al-Kahf",
+      "surahNumber": 18,
+      "juz": 15,
+      "startAyah": "18:16",
+      "endAyah": "18:20",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 296,
+      "surah": "Al-Kahf",
+      "surahNumber": 18,
+      "juz": 15,
+      "startAyah": "18:21",
+      "endAyah": "18:27",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 297,
+      "surah": "Al-Kahf",
+      "surahNumber": 18,
+      "juz": 15,
+      "startAyah": "18:28",
+      "endAyah": "18:34",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 298,
+      "surah": "Al-Kahf",
+      "surahNumber": 18,
+      "juz": 15,
+      "startAyah": "18:35",
+      "endAyah": "18:45",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 299,
+      "surah": "Al-Kahf",
+      "surahNumber": 18,
+      "juz": 15,
+      "startAyah": "18:46",
+      "endAyah": "18:53",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 300,
+      "surah": "Al-Kahf",
+      "surahNumber": 18,
+      "juz": 15,
+      "startAyah": "18:54",
+      "endAyah": "18:61",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 301,
+      "surah": "Al-Kahf",
+      "surahNumber": 18,
+      "juz": 15,
+      "startAyah": "18:62",
+      "endAyah": "18:74",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 302,
+      "surah": "Al-Kahf",
+      "surahNumber": 18,
+      "juz": 16,
+      "startAyah": "18:75",
+      "endAyah": "18:83",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 303,
+      "surah": "Al-Kahf",
+      "surahNumber": 18,
+      "juz": 16,
+      "startAyah": "18:84",
+      "endAyah": "18:97",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 304,
+      "surah": "Al-Kahf",
+      "surahNumber": 18,
+      "juz": 16,
+      "startAyah": "18:98",
+      "endAyah": "18:110",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 305,
+      "surah": "Maryam",
+      "surahNumber": 19,
+      "juz": 16,
+      "startAyah": "19:1",
+      "endAyah": "19:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 306,
+      "surah": "Maryam",
+      "surahNumber": 19,
+      "juz": 16,
+      "startAyah": "19:12",
+      "endAyah": "19:25",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 307,
+      "surah": "Maryam",
+      "surahNumber": 19,
+      "juz": 16,
+      "startAyah": "19:26",
+      "endAyah": "19:38",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 308,
+      "surah": "Maryam",
+      "surahNumber": 19,
+      "juz": 16,
+      "startAyah": "19:39",
+      "endAyah": "19:51",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 309,
+      "surah": "Maryam",
+      "surahNumber": 19,
+      "juz": 16,
+      "startAyah": "19:52",
+      "endAyah": "19:64",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 310,
+      "surah": "Maryam",
+      "surahNumber": 19,
+      "juz": 16,
+      "startAyah": "19:65",
+      "endAyah": "19:76",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 311,
+      "surah": "Maryam",
+      "surahNumber": 19,
+      "juz": 16,
+      "startAyah": "19:77",
+      "endAyah": "19:95",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 312,
+      "surah": "Maryam",
+      "surahNumber": 19,
+      "juz": 16,
+      "startAyah": "19:96",
+      "endAyah": "20:12",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 313,
+      "surah": "Taa-Haa",
+      "surahNumber": 20,
+      "juz": 16,
+      "startAyah": "20:13",
+      "endAyah": "20:37",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 314,
+      "surah": "Taa-Haa",
+      "surahNumber": 20,
+      "juz": 16,
+      "startAyah": "20:38",
+      "endAyah": "20:51",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 315,
+      "surah": "Taa-Haa",
+      "surahNumber": 20,
+      "juz": 16,
+      "startAyah": "20:52",
+      "endAyah": "20:64",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 316,
+      "surah": "Taa-Haa",
+      "surahNumber": 20,
+      "juz": 16,
+      "startAyah": "20:65",
+      "endAyah": "20:76",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 317,
+      "surah": "Taa-Haa",
+      "surahNumber": 20,
+      "juz": 16,
+      "startAyah": "20:77",
+      "endAyah": "20:87",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 318,
+      "surah": "Taa-Haa",
+      "surahNumber": 20,
+      "juz": 16,
+      "startAyah": "20:88",
+      "endAyah": "20:98",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 319,
+      "surah": "Taa-Haa",
+      "surahNumber": 20,
+      "juz": 16,
+      "startAyah": "20:99",
+      "endAyah": "20:113",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 320,
+      "surah": "Taa-Haa",
+      "surahNumber": 20,
+      "juz": 16,
+      "startAyah": "20:114",
+      "endAyah": "20:125",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 321,
+      "surah": "Taa-Haa",
+      "surahNumber": 20,
+      "juz": 16,
+      "startAyah": "20:126",
+      "endAyah": "20:135",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 322,
+      "surah": "Al-Anbiyaa",
+      "surahNumber": 21,
+      "juz": 17,
+      "startAyah": "21:1",
+      "endAyah": "21:10",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 323,
+      "surah": "Al-Anbiyaa",
+      "surahNumber": 21,
+      "juz": 17,
+      "startAyah": "21:11",
+      "endAyah": "21:24",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 324,
+      "surah": "Al-Anbiyaa",
+      "surahNumber": 21,
+      "juz": 17,
+      "startAyah": "21:25",
+      "endAyah": "21:35",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 325,
+      "surah": "Al-Anbiyaa",
+      "surahNumber": 21,
+      "juz": 17,
+      "startAyah": "21:36",
+      "endAyah": "21:44",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 326,
+      "surah": "Al-Anbiyaa",
+      "surahNumber": 21,
+      "juz": 17,
+      "startAyah": "21:45",
+      "endAyah": "21:57",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 327,
+      "surah": "Al-Anbiyaa",
+      "surahNumber": 21,
+      "juz": 17,
+      "startAyah": "21:58",
+      "endAyah": "21:72",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 328,
+      "surah": "Al-Anbiyaa",
+      "surahNumber": 21,
+      "juz": 17,
+      "startAyah": "21:73",
+      "endAyah": "21:81",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 329,
+      "surah": "Al-Anbiyaa",
+      "surahNumber": 21,
+      "juz": 17,
+      "startAyah": "21:82",
+      "endAyah": "21:90",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 330,
+      "surah": "Al-Anbiyaa",
+      "surahNumber": 21,
+      "juz": 17,
+      "startAyah": "21:91",
+      "endAyah": "21:101",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 331,
+      "surah": "Al-Anbiyaa",
+      "surahNumber": 21,
+      "juz": 17,
+      "startAyah": "21:102",
+      "endAyah": "21:112",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 332,
+      "surah": "Al-Hajj",
+      "surahNumber": 22,
+      "juz": 17,
+      "startAyah": "22:1",
+      "endAyah": "22:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 333,
+      "surah": "Al-Hajj",
+      "surahNumber": 22,
+      "juz": 17,
+      "startAyah": "22:6",
+      "endAyah": "22:15",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 334,
+      "surah": "Al-Hajj",
+      "surahNumber": 22,
+      "juz": 17,
+      "startAyah": "22:16",
+      "endAyah": "22:23",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 335,
+      "surah": "Al-Hajj",
+      "surahNumber": 22,
+      "juz": 17,
+      "startAyah": "22:24",
+      "endAyah": "22:30",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 336,
+      "surah": "Al-Hajj",
+      "surahNumber": 22,
+      "juz": 17,
+      "startAyah": "22:31",
+      "endAyah": "22:38",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 337,
+      "surah": "Al-Hajj",
+      "surahNumber": 22,
+      "juz": 17,
+      "startAyah": "22:39",
+      "endAyah": "22:46",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 338,
+      "surah": "Al-Hajj",
+      "surahNumber": 22,
+      "juz": 17,
+      "startAyah": "22:47",
+      "endAyah": "22:55",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 339,
+      "surah": "Al-Hajj",
+      "surahNumber": 22,
+      "juz": 17,
+      "startAyah": "22:56",
+      "endAyah": "22:64",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 340,
+      "surah": "Al-Hajj",
+      "surahNumber": 22,
+      "juz": 17,
+      "startAyah": "22:65",
+      "endAyah": "22:72",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 341,
+      "surah": "Al-Hajj",
+      "surahNumber": 22,
+      "juz": 17,
+      "startAyah": "22:73",
+      "endAyah": "22:78",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 342,
+      "surah": "Al-Muminoon",
+      "surahNumber": 23,
+      "juz": 18,
+      "startAyah": "23:1",
+      "endAyah": "23:17",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 343,
+      "surah": "Al-Muminoon",
+      "surahNumber": 23,
+      "juz": 18,
+      "startAyah": "23:18",
+      "endAyah": "23:27",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 344,
+      "surah": "Al-Muminoon",
+      "surahNumber": 23,
+      "juz": 18,
+      "startAyah": "23:28",
+      "endAyah": "23:42",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 345,
+      "surah": "Al-Muminoon",
+      "surahNumber": 23,
+      "juz": 18,
+      "startAyah": "23:43",
+      "endAyah": "23:59",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 346,
+      "surah": "Al-Muminoon",
+      "surahNumber": 23,
+      "juz": 18,
+      "startAyah": "23:60",
+      "endAyah": "23:74",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 347,
+      "surah": "Al-Muminoon",
+      "surahNumber": 23,
+      "juz": 18,
+      "startAyah": "23:75",
+      "endAyah": "23:89",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 348,
+      "surah": "Al-Muminoon",
+      "surahNumber": 23,
+      "juz": 18,
+      "startAyah": "23:90",
+      "endAyah": "23:104",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 349,
+      "surah": "Al-Muminoon",
+      "surahNumber": 23,
+      "juz": 18,
+      "startAyah": "23:105",
+      "endAyah": "23:118",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 350,
+      "surah": "An-Noor",
+      "surahNumber": 24,
+      "juz": 18,
+      "startAyah": "24:1",
+      "endAyah": "24:10",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 351,
+      "surah": "An-Noor",
+      "surahNumber": 24,
+      "juz": 18,
+      "startAyah": "24:11",
+      "endAyah": "24:20",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 352,
+      "surah": "An-Noor",
+      "surahNumber": 24,
+      "juz": 18,
+      "startAyah": "24:21",
+      "endAyah": "24:27",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 353,
+      "surah": "An-Noor",
+      "surahNumber": 24,
+      "juz": 18,
+      "startAyah": "24:28",
+      "endAyah": "24:31",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 354,
+      "surah": "An-Noor",
+      "surahNumber": 24,
+      "juz": 18,
+      "startAyah": "24:32",
+      "endAyah": "24:36",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 355,
+      "surah": "An-Noor",
+      "surahNumber": 24,
+      "juz": 18,
+      "startAyah": "24:37",
+      "endAyah": "24:43",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 356,
+      "surah": "An-Noor",
+      "surahNumber": 24,
+      "juz": 18,
+      "startAyah": "24:44",
+      "endAyah": "24:53",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 357,
+      "surah": "An-Noor",
+      "surahNumber": 24,
+      "juz": 18,
+      "startAyah": "24:54",
+      "endAyah": "24:58",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 358,
+      "surah": "An-Noor",
+      "surahNumber": 24,
+      "juz": 18,
+      "startAyah": "24:59",
+      "endAyah": "24:61",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 359,
+      "surah": "An-Noor",
+      "surahNumber": 24,
+      "juz": 18,
+      "startAyah": "24:62",
+      "endAyah": "25:2",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 360,
+      "surah": "Al-Furqaan",
+      "surahNumber": 25,
+      "juz": 18,
+      "startAyah": "25:3",
+      "endAyah": "25:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 361,
+      "surah": "Al-Furqaan",
+      "surahNumber": 25,
+      "juz": 18,
+      "startAyah": "25:12",
+      "endAyah": "25:20",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 362,
+      "surah": "Al-Furqaan",
+      "surahNumber": 25,
+      "juz": 19,
+      "startAyah": "25:21",
+      "endAyah": "25:32",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 363,
+      "surah": "Al-Furqaan",
+      "surahNumber": 25,
+      "juz": 19,
+      "startAyah": "25:33",
+      "endAyah": "25:43",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 364,
+      "surah": "Al-Furqaan",
+      "surahNumber": 25,
+      "juz": 19,
+      "startAyah": "25:44",
+      "endAyah": "25:55",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 365,
+      "surah": "Al-Furqaan",
+      "surahNumber": 25,
+      "juz": 19,
+      "startAyah": "25:56",
+      "endAyah": "25:67",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 366,
+      "surah": "Al-Furqaan",
+      "surahNumber": 25,
+      "juz": 19,
+      "startAyah": "25:68",
+      "endAyah": "25:77",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 367,
+      "surah": "Ash-Shu'araa",
+      "surahNumber": 26,
+      "juz": 19,
+      "startAyah": "26:1",
+      "endAyah": "26:19",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 368,
+      "surah": "Ash-Shu'araa",
+      "surahNumber": 26,
+      "juz": 19,
+      "startAyah": "26:20",
+      "endAyah": "26:39",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 369,
+      "surah": "Ash-Shu'araa",
+      "surahNumber": 26,
+      "juz": 19,
+      "startAyah": "26:40",
+      "endAyah": "26:60",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 370,
+      "surah": "Ash-Shu'araa",
+      "surahNumber": 26,
+      "juz": 19,
+      "startAyah": "26:61",
+      "endAyah": "26:83",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 371,
+      "surah": "Ash-Shu'araa",
+      "surahNumber": 26,
+      "juz": 19,
+      "startAyah": "26:84",
+      "endAyah": "26:111",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 372,
+      "surah": "Ash-Shu'araa",
+      "surahNumber": 26,
+      "juz": 19,
+      "startAyah": "26:112",
+      "endAyah": "26:136",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 373,
+      "surah": "Ash-Shu'araa",
+      "surahNumber": 26,
+      "juz": 19,
+      "startAyah": "26:137",
+      "endAyah": "26:159",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 374,
+      "surah": "Ash-Shu'araa",
+      "surahNumber": 26,
+      "juz": 19,
+      "startAyah": "26:160",
+      "endAyah": "26:183",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 375,
+      "surah": "Ash-Shu'araa",
+      "surahNumber": 26,
+      "juz": 19,
+      "startAyah": "26:184",
+      "endAyah": "26:206",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 376,
+      "surah": "Ash-Shu'araa",
+      "surahNumber": 26,
+      "juz": 19,
+      "startAyah": "26:207",
+      "endAyah": "26:227",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 377,
+      "surah": "An-Naml",
+      "surahNumber": 27,
+      "juz": 19,
+      "startAyah": "27:1",
+      "endAyah": "27:13",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 378,
+      "surah": "An-Naml",
+      "surahNumber": 27,
+      "juz": 19,
+      "startAyah": "27:14",
+      "endAyah": "27:22",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 379,
+      "surah": "An-Naml",
+      "surahNumber": 27,
+      "juz": 19,
+      "startAyah": "27:23",
+      "endAyah": "27:35",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 380,
+      "surah": "An-Naml",
+      "surahNumber": 27,
+      "juz": 19,
+      "startAyah": "27:36",
+      "endAyah": "27:44",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 381,
+      "surah": "An-Naml",
+      "surahNumber": 27,
+      "juz": 19,
+      "startAyah": "27:45",
+      "endAyah": "27:55",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 382,
+      "surah": "An-Naml",
+      "surahNumber": 27,
+      "juz": 20,
+      "startAyah": "27:56",
+      "endAyah": "27:63",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 383,
+      "surah": "An-Naml",
+      "surahNumber": 27,
+      "juz": 20,
+      "startAyah": "27:64",
+      "endAyah": "27:76",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 384,
+      "surah": "An-Naml",
+      "surahNumber": 27,
+      "juz": 20,
+      "startAyah": "27:77",
+      "endAyah": "27:88",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 385,
+      "surah": "An-Naml",
+      "surahNumber": 27,
+      "juz": 20,
+      "startAyah": "27:89",
+      "endAyah": "28:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 386,
+      "surah": "Al-Qasas",
+      "surahNumber": 28,
+      "juz": 20,
+      "startAyah": "28:6",
+      "endAyah": "28:13",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 387,
+      "surah": "Al-Qasas",
+      "surahNumber": 28,
+      "juz": 20,
+      "startAyah": "28:14",
+      "endAyah": "28:21",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 388,
+      "surah": "Al-Qasas",
+      "surahNumber": 28,
+      "juz": 20,
+      "startAyah": "28:22",
+      "endAyah": "28:28",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 389,
+      "surah": "Al-Qasas",
+      "surahNumber": 28,
+      "juz": 20,
+      "startAyah": "28:29",
+      "endAyah": "28:35",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 390,
+      "surah": "Al-Qasas",
+      "surahNumber": 28,
+      "juz": 20,
+      "startAyah": "28:36",
+      "endAyah": "28:43",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 391,
+      "surah": "Al-Qasas",
+      "surahNumber": 28,
+      "juz": 20,
+      "startAyah": "28:44",
+      "endAyah": "28:50",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 392,
+      "surah": "Al-Qasas",
+      "surahNumber": 28,
+      "juz": 20,
+      "startAyah": "28:51",
+      "endAyah": "28:59",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 393,
+      "surah": "Al-Qasas",
+      "surahNumber": 28,
+      "juz": 20,
+      "startAyah": "28:60",
+      "endAyah": "28:70",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 394,
+      "surah": "Al-Qasas",
+      "surahNumber": 28,
+      "juz": 20,
+      "startAyah": "28:71",
+      "endAyah": "28:77",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 395,
+      "surah": "Al-Qasas",
+      "surahNumber": 28,
+      "juz": 20,
+      "startAyah": "28:78",
+      "endAyah": "28:84",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 396,
+      "surah": "Al-Qasas",
+      "surahNumber": 28,
+      "juz": 20,
+      "startAyah": "28:85",
+      "endAyah": "29:6",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 397,
+      "surah": "Al-Ankaboot",
+      "surahNumber": 29,
+      "juz": 20,
+      "startAyah": "29:7",
+      "endAyah": "29:14",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 398,
+      "surah": "Al-Ankaboot",
+      "surahNumber": 29,
+      "juz": 20,
+      "startAyah": "29:15",
+      "endAyah": "29:23",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 399,
+      "surah": "Al-Ankaboot",
+      "surahNumber": 29,
+      "juz": 20,
+      "startAyah": "29:24",
+      "endAyah": "29:30",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 400,
+      "surah": "Al-Ankaboot",
+      "surahNumber": 29,
+      "juz": 20,
+      "startAyah": "29:31",
+      "endAyah": "29:38",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 401,
+      "surah": "Al-Ankaboot",
+      "surahNumber": 29,
+      "juz": 20,
+      "startAyah": "29:39",
+      "endAyah": "29:45",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 402,
+      "surah": "Al-Ankaboot",
+      "surahNumber": 29,
+      "juz": 21,
+      "startAyah": "29:46",
+      "endAyah": "29:52",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 403,
+      "surah": "Al-Ankaboot",
+      "surahNumber": 29,
+      "juz": 21,
+      "startAyah": "29:53",
+      "endAyah": "29:63",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 404,
+      "surah": "Al-Ankaboot",
+      "surahNumber": 29,
+      "juz": 21,
+      "startAyah": "29:64",
+      "endAyah": "30:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 405,
+      "surah": "Ar-Room",
+      "surahNumber": 30,
+      "juz": 21,
+      "startAyah": "30:6",
+      "endAyah": "30:15",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 406,
+      "surah": "Ar-Room",
+      "surahNumber": 30,
+      "juz": 21,
+      "startAyah": "30:16",
+      "endAyah": "30:24",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 407,
+      "surah": "Ar-Room",
+      "surahNumber": 30,
+      "juz": 21,
+      "startAyah": "30:25",
+      "endAyah": "30:32",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 408,
+      "surah": "Ar-Room",
+      "surahNumber": 30,
+      "juz": 21,
+      "startAyah": "30:33",
+      "endAyah": "30:41",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 409,
+      "surah": "Ar-Room",
+      "surahNumber": 30,
+      "juz": 21,
+      "startAyah": "30:42",
+      "endAyah": "30:50",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 410,
+      "surah": "Ar-Room",
+      "surahNumber": 30,
+      "juz": 21,
+      "startAyah": "30:51",
+      "endAyah": "30:60",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 411,
+      "surah": "Luqman",
+      "surahNumber": 31,
+      "juz": 21,
+      "startAyah": "31:1",
+      "endAyah": "31:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 412,
+      "surah": "Luqman",
+      "surahNumber": 31,
+      "juz": 21,
+      "startAyah": "31:12",
+      "endAyah": "31:19",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 413,
+      "surah": "Luqman",
+      "surahNumber": 31,
+      "juz": 21,
+      "startAyah": "31:20",
+      "endAyah": "31:28",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 414,
+      "surah": "Luqman",
+      "surahNumber": 31,
+      "juz": 21,
+      "startAyah": "31:29",
+      "endAyah": "31:34",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 415,
+      "surah": "As-Sajda",
+      "surahNumber": 32,
+      "juz": 21,
+      "startAyah": "32:1",
+      "endAyah": "32:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 416,
+      "surah": "As-Sajda",
+      "surahNumber": 32,
+      "juz": 21,
+      "startAyah": "32:12",
+      "endAyah": "32:20",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 417,
+      "surah": "As-Sajda",
+      "surahNumber": 32,
+      "juz": 21,
+      "startAyah": "32:21",
+      "endAyah": "32:30",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 418,
+      "surah": "Al-Ahzaab",
+      "surahNumber": 33,
+      "juz": 21,
+      "startAyah": "33:1",
+      "endAyah": "33:6",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 419,
+      "surah": "Al-Ahzaab",
+      "surahNumber": 33,
+      "juz": 21,
+      "startAyah": "33:7",
+      "endAyah": "33:15",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 420,
+      "surah": "Al-Ahzaab",
+      "surahNumber": 33,
+      "juz": 21,
+      "startAyah": "33:16",
+      "endAyah": "33:22",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 421,
+      "surah": "Al-Ahzaab",
+      "surahNumber": 33,
+      "juz": 21,
+      "startAyah": "33:23",
+      "endAyah": "33:30",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 422,
+      "surah": "Al-Ahzaab",
+      "surahNumber": 33,
+      "juz": 22,
+      "startAyah": "33:31",
+      "endAyah": "33:35",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 423,
+      "surah": "Al-Ahzaab",
+      "surahNumber": 33,
+      "juz": 22,
+      "startAyah": "33:36",
+      "endAyah": "33:43",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 424,
+      "surah": "Al-Ahzaab",
+      "surahNumber": 33,
+      "juz": 22,
+      "startAyah": "33:44",
+      "endAyah": "33:50",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 425,
+      "surah": "Al-Ahzaab",
+      "surahNumber": 33,
+      "juz": 22,
+      "startAyah": "33:51",
+      "endAyah": "33:54",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 426,
+      "surah": "Al-Ahzaab",
+      "surahNumber": 33,
+      "juz": 22,
+      "startAyah": "33:55",
+      "endAyah": "33:62",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 427,
+      "surah": "Al-Ahzaab",
+      "surahNumber": 33,
+      "juz": 22,
+      "startAyah": "33:63",
+      "endAyah": "33:73",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 428,
+      "surah": "Saba",
+      "surahNumber": 34,
+      "juz": 22,
+      "startAyah": "34:1",
+      "endAyah": "34:7",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 429,
+      "surah": "Saba",
+      "surahNumber": 34,
+      "juz": 22,
+      "startAyah": "34:8",
+      "endAyah": "34:14",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 430,
+      "surah": "Saba",
+      "surahNumber": 34,
+      "juz": 22,
+      "startAyah": "34:15",
+      "endAyah": "34:22",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 431,
+      "surah": "Saba",
+      "surahNumber": 34,
+      "juz": 22,
+      "startAyah": "34:23",
+      "endAyah": "34:31",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 432,
+      "surah": "Saba",
+      "surahNumber": 34,
+      "juz": 22,
+      "startAyah": "34:32",
+      "endAyah": "34:39",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 433,
+      "surah": "Saba",
+      "surahNumber": 34,
+      "juz": 22,
+      "startAyah": "34:40",
+      "endAyah": "34:48",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 434,
+      "surah": "Saba",
+      "surahNumber": 34,
+      "juz": 22,
+      "startAyah": "34:49",
+      "endAyah": "35:3",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 435,
+      "surah": "Faatir",
+      "surahNumber": 35,
+      "juz": 22,
+      "startAyah": "35:4",
+      "endAyah": "35:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 436,
+      "surah": "Faatir",
+      "surahNumber": 35,
+      "juz": 22,
+      "startAyah": "35:12",
+      "endAyah": "35:18",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 437,
+      "surah": "Faatir",
+      "surahNumber": 35,
+      "juz": 22,
+      "startAyah": "35:19",
+      "endAyah": "35:30",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 438,
+      "surah": "Faatir",
+      "surahNumber": 35,
+      "juz": 22,
+      "startAyah": "35:31",
+      "endAyah": "35:38",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 439,
+      "surah": "Faatir",
+      "surahNumber": 35,
+      "juz": 22,
+      "startAyah": "35:39",
+      "endAyah": "35:44",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 440,
+      "surah": "Faatir",
+      "surahNumber": 35,
+      "juz": 22,
+      "startAyah": "35:45",
+      "endAyah": "36:12",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 441,
+      "surah": "Yaseen",
+      "surahNumber": 36,
+      "juz": 22,
+      "startAyah": "36:13",
+      "endAyah": "36:27",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 442,
+      "surah": "Yaseen",
+      "surahNumber": 36,
+      "juz": 23,
+      "startAyah": "36:28",
+      "endAyah": "36:40",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 443,
+      "surah": "Yaseen",
+      "surahNumber": 36,
+      "juz": 23,
+      "startAyah": "36:41",
+      "endAyah": "36:54",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 444,
+      "surah": "Yaseen",
+      "surahNumber": 36,
+      "juz": 23,
+      "startAyah": "36:55",
+      "endAyah": "36:70",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 445,
+      "surah": "Yaseen",
+      "surahNumber": 36,
+      "juz": 23,
+      "startAyah": "36:71",
+      "endAyah": "36:83",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 446,
+      "surah": "As-Saaffaat",
+      "surahNumber": 37,
+      "juz": 23,
+      "startAyah": "37:1",
+      "endAyah": "37:24",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 447,
+      "surah": "As-Saaffaat",
+      "surahNumber": 37,
+      "juz": 23,
+      "startAyah": "37:25",
+      "endAyah": "37:51",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 448,
+      "surah": "As-Saaffaat",
+      "surahNumber": 37,
+      "juz": 23,
+      "startAyah": "37:52",
+      "endAyah": "37:76",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 449,
+      "surah": "As-Saaffaat",
+      "surahNumber": 37,
+      "juz": 23,
+      "startAyah": "37:77",
+      "endAyah": "37:102",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 450,
+      "surah": "As-Saaffaat",
+      "surahNumber": 37,
+      "juz": 23,
+      "startAyah": "37:103",
+      "endAyah": "37:126",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 451,
+      "surah": "As-Saaffaat",
+      "surahNumber": 37,
+      "juz": 23,
+      "startAyah": "37:127",
+      "endAyah": "37:153",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 452,
+      "surah": "As-Saaffaat",
+      "surahNumber": 37,
+      "juz": 23,
+      "startAyah": "37:154",
+      "endAyah": "37:182",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 453,
+      "surah": "Saad",
+      "surahNumber": 38,
+      "juz": 23,
+      "startAyah": "38:1",
+      "endAyah": "38:16",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 454,
+      "surah": "Saad",
+      "surahNumber": 38,
+      "juz": 23,
+      "startAyah": "38:17",
+      "endAyah": "38:26",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 455,
+      "surah": "Saad",
+      "surahNumber": 38,
+      "juz": 23,
+      "startAyah": "38:27",
+      "endAyah": "38:42",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 456,
+      "surah": "Saad",
+      "surahNumber": 38,
+      "juz": 23,
+      "startAyah": "38:43",
+      "endAyah": "38:61",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 457,
+      "surah": "Saad",
+      "surahNumber": 38,
+      "juz": 23,
+      "startAyah": "38:62",
+      "endAyah": "38:83",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 458,
+      "surah": "Saad",
+      "surahNumber": 38,
+      "juz": 23,
+      "startAyah": "38:84",
+      "endAyah": "39:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 459,
+      "surah": "Az-Zumar",
+      "surahNumber": 39,
+      "juz": 23,
+      "startAyah": "39:6",
+      "endAyah": "39:10",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 460,
+      "surah": "Az-Zumar",
+      "surahNumber": 39,
+      "juz": 23,
+      "startAyah": "39:11",
+      "endAyah": "39:21",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 461,
+      "surah": "Az-Zumar",
+      "surahNumber": 39,
+      "juz": 23,
+      "startAyah": "39:22",
+      "endAyah": "39:31",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 462,
+      "surah": "Az-Zumar",
+      "surahNumber": 39,
+      "juz": 24,
+      "startAyah": "39:32",
+      "endAyah": "39:40",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 463,
+      "surah": "Az-Zumar",
+      "surahNumber": 39,
+      "juz": 24,
+      "startAyah": "39:41",
+      "endAyah": "39:47",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 464,
+      "surah": "Az-Zumar",
+      "surahNumber": 39,
+      "juz": 24,
+      "startAyah": "39:48",
+      "endAyah": "39:56",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 465,
+      "surah": "Az-Zumar",
+      "surahNumber": 39,
+      "juz": 24,
+      "startAyah": "39:57",
+      "endAyah": "39:67",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 466,
+      "surah": "Az-Zumar",
+      "surahNumber": 39,
+      "juz": 24,
+      "startAyah": "39:68",
+      "endAyah": "39:74",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 467,
+      "surah": "Az-Zumar",
+      "surahNumber": 39,
+      "juz": 24,
+      "startAyah": "39:75",
+      "endAyah": "40:7",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 468,
+      "surah": "Ghafir",
+      "surahNumber": 40,
+      "juz": 24,
+      "startAyah": "40:8",
+      "endAyah": "40:16",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 469,
+      "surah": "Ghafir",
+      "surahNumber": 40,
+      "juz": 24,
+      "startAyah": "40:17",
+      "endAyah": "40:25",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 470,
+      "surah": "Ghafir",
+      "surahNumber": 40,
+      "juz": 24,
+      "startAyah": "40:26",
+      "endAyah": "40:33",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 471,
+      "surah": "Ghafir",
+      "surahNumber": 40,
+      "juz": 24,
+      "startAyah": "40:34",
+      "endAyah": "40:40",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 472,
+      "surah": "Ghafir",
+      "surahNumber": 40,
+      "juz": 24,
+      "startAyah": "40:41",
+      "endAyah": "40:49",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 473,
+      "surah": "Ghafir",
+      "surahNumber": 40,
+      "juz": 24,
+      "startAyah": "40:50",
+      "endAyah": "40:58",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 474,
+      "surah": "Ghafir",
+      "surahNumber": 40,
+      "juz": 24,
+      "startAyah": "40:59",
+      "endAyah": "40:66",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 475,
+      "surah": "Ghafir",
+      "surahNumber": 40,
+      "juz": 24,
+      "startAyah": "40:67",
+      "endAyah": "40:77",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 476,
+      "surah": "Ghafir",
+      "surahNumber": 40,
+      "juz": 24,
+      "startAyah": "40:78",
+      "endAyah": "40:85",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 477,
+      "surah": "Fussilat",
+      "surahNumber": 41,
+      "juz": 24,
+      "startAyah": "41:1",
+      "endAyah": "41:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 478,
+      "surah": "Fussilat",
+      "surahNumber": 41,
+      "juz": 24,
+      "startAyah": "41:12",
+      "endAyah": "41:20",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 479,
+      "surah": "Fussilat",
+      "surahNumber": 41,
+      "juz": 24,
+      "startAyah": "41:21",
+      "endAyah": "41:29",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 480,
+      "surah": "Fussilat",
+      "surahNumber": 41,
+      "juz": 24,
+      "startAyah": "41:30",
+      "endAyah": "41:38",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 481,
+      "surah": "Fussilat",
+      "surahNumber": 41,
+      "juz": 24,
+      "startAyah": "41:39",
+      "endAyah": "41:46",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 482,
+      "surah": "Fussilat",
+      "surahNumber": 41,
+      "juz": 25,
+      "startAyah": "41:47",
+      "endAyah": "41:54",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 483,
+      "surah": "Ash-Shura",
+      "surahNumber": 42,
+      "juz": 25,
+      "startAyah": "42:1",
+      "endAyah": "42:10",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 484,
+      "surah": "Ash-Shura",
+      "surahNumber": 42,
+      "juz": 25,
+      "startAyah": "42:11",
+      "endAyah": "42:15",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 485,
+      "surah": "Ash-Shura",
+      "surahNumber": 42,
+      "juz": 25,
+      "startAyah": "42:16",
+      "endAyah": "42:22",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 486,
+      "surah": "Ash-Shura",
+      "surahNumber": 42,
+      "juz": 25,
+      "startAyah": "42:23",
+      "endAyah": "42:31",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 487,
+      "surah": "Ash-Shura",
+      "surahNumber": 42,
+      "juz": 25,
+      "startAyah": "42:32",
+      "endAyah": "42:44",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 488,
+      "surah": "Ash-Shura",
+      "surahNumber": 42,
+      "juz": 25,
+      "startAyah": "42:45",
+      "endAyah": "42:51",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 489,
+      "surah": "Ash-Shura",
+      "surahNumber": 42,
+      "juz": 25,
+      "startAyah": "42:52",
+      "endAyah": "43:10",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 490,
+      "surah": "Az-Zukhruf",
+      "surahNumber": 43,
+      "juz": 25,
+      "startAyah": "43:11",
+      "endAyah": "43:22",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 491,
+      "surah": "Az-Zukhruf",
+      "surahNumber": 43,
+      "juz": 25,
+      "startAyah": "43:23",
+      "endAyah": "43:33",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 492,
+      "surah": "Az-Zukhruf",
+      "surahNumber": 43,
+      "juz": 25,
+      "startAyah": "43:34",
+      "endAyah": "43:47",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 493,
+      "surah": "Az-Zukhruf",
+      "surahNumber": 43,
+      "juz": 25,
+      "startAyah": "43:48",
+      "endAyah": "43:60",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 494,
+      "surah": "Az-Zukhruf",
+      "surahNumber": 43,
+      "juz": 25,
+      "startAyah": "43:61",
+      "endAyah": "43:73",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 495,
+      "surah": "Az-Zukhruf",
+      "surahNumber": 43,
+      "juz": 25,
+      "startAyah": "43:74",
+      "endAyah": "43:89",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 496,
+      "surah": "Ad-Dukhaan",
+      "surahNumber": 44,
+      "juz": 25,
+      "startAyah": "44:1",
+      "endAyah": "44:18",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 497,
+      "surah": "Ad-Dukhaan",
+      "surahNumber": 44,
+      "juz": 25,
+      "startAyah": "44:19",
+      "endAyah": "44:39",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 498,
+      "surah": "Ad-Dukhaan",
+      "surahNumber": 44,
+      "juz": 25,
+      "startAyah": "44:40",
+      "endAyah": "44:59",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 499,
+      "surah": "Al-Jaathiya",
+      "surahNumber": 45,
+      "juz": 25,
+      "startAyah": "45:1",
+      "endAyah": "45:13",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 500,
+      "surah": "Al-Jaathiya",
+      "surahNumber": 45,
+      "juz": 25,
+      "startAyah": "45:14",
+      "endAyah": "45:22",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 501,
+      "surah": "Al-Jaathiya",
+      "surahNumber": 45,
+      "juz": 25,
+      "startAyah": "45:23",
+      "endAyah": "45:32",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 502,
+      "surah": "Al-Jaathiya",
+      "surahNumber": 45,
+      "juz": 26,
+      "startAyah": "45:33",
+      "endAyah": "46:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 503,
+      "surah": "Al-Ahqaf",
+      "surahNumber": 46,
+      "juz": 26,
+      "startAyah": "46:6",
+      "endAyah": "46:14",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 504,
+      "surah": "Al-Ahqaf",
+      "surahNumber": 46,
+      "juz": 26,
+      "startAyah": "46:15",
+      "endAyah": "46:20",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 505,
+      "surah": "Al-Ahqaf",
+      "surahNumber": 46,
+      "juz": 26,
+      "startAyah": "46:21",
+      "endAyah": "46:28",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 506,
+      "surah": "Al-Ahqaf",
+      "surahNumber": 46,
+      "juz": 26,
+      "startAyah": "46:29",
+      "endAyah": "46:35",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 507,
+      "surah": "Muhammad",
+      "surahNumber": 47,
+      "juz": 26,
+      "startAyah": "47:1",
+      "endAyah": "47:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 508,
+      "surah": "Muhammad",
+      "surahNumber": 47,
+      "juz": 26,
+      "startAyah": "47:12",
+      "endAyah": "47:19",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 509,
+      "surah": "Muhammad",
+      "surahNumber": 47,
+      "juz": 26,
+      "startAyah": "47:20",
+      "endAyah": "47:29",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 510,
+      "surah": "Muhammad",
+      "surahNumber": 47,
+      "juz": 26,
+      "startAyah": "47:30",
+      "endAyah": "47:38",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 511,
+      "surah": "Al-Fath",
+      "surahNumber": 48,
+      "juz": 26,
+      "startAyah": "48:1",
+      "endAyah": "48:9",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 512,
+      "surah": "Al-Fath",
+      "surahNumber": 48,
+      "juz": 26,
+      "startAyah": "48:10",
+      "endAyah": "48:15",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 513,
+      "surah": "Al-Fath",
+      "surahNumber": 48,
+      "juz": 26,
+      "startAyah": "48:16",
+      "endAyah": "48:23",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 514,
+      "surah": "Al-Fath",
+      "surahNumber": 48,
+      "juz": 26,
+      "startAyah": "48:24",
+      "endAyah": "48:28",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 515,
+      "surah": "Al-Fath",
+      "surahNumber": 48,
+      "juz": 26,
+      "startAyah": "48:29",
+      "endAyah": "49:4",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 516,
+      "surah": "Al-Hujuraat",
+      "surahNumber": 49,
+      "juz": 26,
+      "startAyah": "49:5",
+      "endAyah": "49:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 517,
+      "surah": "Al-Hujuraat",
+      "surahNumber": 49,
+      "juz": 26,
+      "startAyah": "49:12",
+      "endAyah": "49:18",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 518,
+      "surah": "Qaaf",
+      "surahNumber": 50,
+      "juz": 26,
+      "startAyah": "50:1",
+      "endAyah": "50:15",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 519,
+      "surah": "Qaaf",
+      "surahNumber": 50,
+      "juz": 26,
+      "startAyah": "50:16",
+      "endAyah": "50:35",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 520,
+      "surah": "Qaaf",
+      "surahNumber": 50,
+      "juz": 26,
+      "startAyah": "50:36",
+      "endAyah": "51:6",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 521,
+      "surah": "Adh-Dhaariyat",
+      "surahNumber": 51,
+      "juz": 26,
+      "startAyah": "51:7",
+      "endAyah": "51:30",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 522,
+      "surah": "Adh-Dhaariyat",
+      "surahNumber": 51,
+      "juz": 27,
+      "startAyah": "51:31",
+      "endAyah": "51:51",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 523,
+      "surah": "Adh-Dhaariyat",
+      "surahNumber": 51,
+      "juz": 27,
+      "startAyah": "51:52",
+      "endAyah": "52:14",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 524,
+      "surah": "At-Tur",
+      "surahNumber": 52,
+      "juz": 27,
+      "startAyah": "52:15",
+      "endAyah": "52:31",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 525,
+      "surah": "At-Tur",
+      "surahNumber": 52,
+      "juz": 27,
+      "startAyah": "52:32",
+      "endAyah": "52:49",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 526,
+      "surah": "An-Najm",
+      "surahNumber": 53,
+      "juz": 27,
+      "startAyah": "53:1",
+      "endAyah": "53:26",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 527,
+      "surah": "An-Najm",
+      "surahNumber": 53,
+      "juz": 27,
+      "startAyah": "53:27",
+      "endAyah": "53:44",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 528,
+      "surah": "An-Najm",
+      "surahNumber": 53,
+      "juz": 27,
+      "startAyah": "53:45",
+      "endAyah": "54:6",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 529,
+      "surah": "Al-Qamar",
+      "surahNumber": 54,
+      "juz": 27,
+      "startAyah": "54:7",
+      "endAyah": "54:27",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 530,
+      "surah": "Al-Qamar",
+      "surahNumber": 54,
+      "juz": 27,
+      "startAyah": "54:28",
+      "endAyah": "54:49",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 531,
+      "surah": "Al-Qamar",
+      "surahNumber": 54,
+      "juz": 27,
+      "startAyah": "54:50",
+      "endAyah": "55:16",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 532,
+      "surah": "Ar-Rahmaan",
+      "surahNumber": 55,
+      "juz": 27,
+      "startAyah": "55:17",
+      "endAyah": "55:40",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 533,
+      "surah": "Ar-Rahmaan",
+      "surahNumber": 55,
+      "juz": 27,
+      "startAyah": "55:41",
+      "endAyah": "55:67",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 534,
+      "surah": "Ar-Rahmaan",
+      "surahNumber": 55,
+      "juz": 27,
+      "startAyah": "55:68",
+      "endAyah": "56:16",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 535,
+      "surah": "Al-Waaqia",
+      "surahNumber": 56,
+      "juz": 27,
+      "startAyah": "56:17",
+      "endAyah": "56:50",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 536,
+      "surah": "Al-Waaqia",
+      "surahNumber": 56,
+      "juz": 27,
+      "startAyah": "56:51",
+      "endAyah": "56:76",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 537,
+      "surah": "Al-Waaqia",
+      "surahNumber": 56,
+      "juz": 27,
+      "startAyah": "56:77",
+      "endAyah": "57:3",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 538,
+      "surah": "Al-Hadid",
+      "surahNumber": 57,
+      "juz": 27,
+      "startAyah": "57:4",
+      "endAyah": "57:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 539,
+      "surah": "Al-Hadid",
+      "surahNumber": 57,
+      "juz": 27,
+      "startAyah": "57:12",
+      "endAyah": "57:18",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 540,
+      "surah": "Al-Hadid",
+      "surahNumber": 57,
+      "juz": 27,
+      "startAyah": "57:19",
+      "endAyah": "57:24",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 541,
+      "surah": "Al-Hadid",
+      "surahNumber": 57,
+      "juz": 27,
+      "startAyah": "57:25",
+      "endAyah": "57:29",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 542,
+      "surah": "Al-Mujaadila",
+      "surahNumber": 58,
+      "juz": 28,
+      "startAyah": "58:1",
+      "endAyah": "58:6",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 543,
+      "surah": "Al-Mujaadila",
+      "surahNumber": 58,
+      "juz": 28,
+      "startAyah": "58:7",
+      "endAyah": "58:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 544,
+      "surah": "Al-Mujaadila",
+      "surahNumber": 58,
+      "juz": 28,
+      "startAyah": "58:12",
+      "endAyah": "58:21",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 545,
+      "surah": "Al-Mujaadila",
+      "surahNumber": 58,
+      "juz": 28,
+      "startAyah": "58:22",
+      "endAyah": "59:3",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 546,
+      "surah": "Al-Hashr",
+      "surahNumber": 59,
+      "juz": 28,
+      "startAyah": "59:4",
+      "endAyah": "59:9",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 547,
+      "surah": "Al-Hashr",
+      "surahNumber": 59,
+      "juz": 28,
+      "startAyah": "59:10",
+      "endAyah": "59:16",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 548,
+      "surah": "Al-Hashr",
+      "surahNumber": 59,
+      "juz": 28,
+      "startAyah": "59:17",
+      "endAyah": "59:24",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 549,
+      "surah": "Al-Mumtahana",
+      "surahNumber": 60,
+      "juz": 28,
+      "startAyah": "60:1",
+      "endAyah": "60:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 550,
+      "surah": "Al-Mumtahana",
+      "surahNumber": 60,
+      "juz": 28,
+      "startAyah": "60:6",
+      "endAyah": "60:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 551,
+      "surah": "Al-Mumtahana",
+      "surahNumber": 60,
+      "juz": 28,
+      "startAyah": "60:12",
+      "endAyah": "61:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 552,
+      "surah": "As-Saff",
+      "surahNumber": 61,
+      "juz": 28,
+      "startAyah": "61:6",
+      "endAyah": "61:14",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 553,
+      "surah": "Al-Jumu'a",
+      "surahNumber": 62,
+      "juz": 28,
+      "startAyah": "62:1",
+      "endAyah": "62:8",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 554,
+      "surah": "Al-Jumu'a",
+      "surahNumber": 62,
+      "juz": 28,
+      "startAyah": "62:9",
+      "endAyah": "63:4",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 555,
+      "surah": "Al-Munaafiqoon",
+      "surahNumber": 63,
+      "juz": 28,
+      "startAyah": "63:5",
+      "endAyah": "63:11",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 556,
+      "surah": "At-Taghaabun",
+      "surahNumber": 64,
+      "juz": 28,
+      "startAyah": "64:1",
+      "endAyah": "64:9",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 557,
+      "surah": "At-Taghaabun",
+      "surahNumber": 64,
+      "juz": 28,
+      "startAyah": "64:10",
+      "endAyah": "64:18",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 558,
+      "surah": "At-Talaaq",
+      "surahNumber": 65,
+      "juz": 28,
+      "startAyah": "65:1",
+      "endAyah": "65:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 559,
+      "surah": "At-Talaaq",
+      "surahNumber": 65,
+      "juz": 28,
+      "startAyah": "65:6",
+      "endAyah": "65:12",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 560,
+      "surah": "At-Tahrim",
+      "surahNumber": 66,
+      "juz": 28,
+      "startAyah": "66:1",
+      "endAyah": "66:7",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 561,
+      "surah": "At-Tahrim",
+      "surahNumber": 66,
+      "juz": 28,
+      "startAyah": "66:8",
+      "endAyah": "66:12",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 562,
+      "surah": "Al-Mulk",
+      "surahNumber": 67,
+      "juz": 29,
+      "startAyah": "67:1",
+      "endAyah": "67:12",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 563,
+      "surah": "Al-Mulk",
+      "surahNumber": 67,
+      "juz": 29,
+      "startAyah": "67:13",
+      "endAyah": "67:26",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 564,
+      "surah": "Al-Mulk",
+      "surahNumber": 67,
+      "juz": 29,
+      "startAyah": "67:27",
+      "endAyah": "68:15",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 565,
+      "surah": "Al-Qalam",
+      "surahNumber": 68,
+      "juz": 29,
+      "startAyah": "68:16",
+      "endAyah": "68:42",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 566,
+      "surah": "Al-Qalam",
+      "surahNumber": 68,
+      "juz": 29,
+      "startAyah": "68:43",
+      "endAyah": "69:8",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 567,
+      "surah": "Al-Haaqqa",
+      "surahNumber": 69,
+      "juz": 29,
+      "startAyah": "69:9",
+      "endAyah": "69:34",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 568,
+      "surah": "Al-Haaqqa",
+      "surahNumber": 69,
+      "juz": 29,
+      "startAyah": "69:35",
+      "endAyah": "70:10",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 569,
+      "surah": "Al-Ma'aarij",
+      "surahNumber": 70,
+      "juz": 29,
+      "startAyah": "70:11",
+      "endAyah": "70:39",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 570,
+      "surah": "Al-Ma'aarij",
+      "surahNumber": 70,
+      "juz": 29,
+      "startAyah": "70:40",
+      "endAyah": "71:10",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 571,
+      "surah": "Nooh",
+      "surahNumber": 71,
+      "juz": 29,
+      "startAyah": "71:11",
+      "endAyah": "71:28",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 572,
+      "surah": "Al-Jinn",
+      "surahNumber": 72,
+      "juz": 29,
+      "startAyah": "72:1",
+      "endAyah": "72:13",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 573,
+      "surah": "Al-Jinn",
+      "surahNumber": 72,
+      "juz": 29,
+      "startAyah": "72:14",
+      "endAyah": "72:28",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 574,
+      "surah": "Al-Muzzammil",
+      "surahNumber": 73,
+      "juz": 29,
+      "startAyah": "73:1",
+      "endAyah": "73:19",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 575,
+      "surah": "Al-Muzzammil",
+      "surahNumber": 73,
+      "juz": 29,
+      "startAyah": "73:20",
+      "endAyah": "74:17",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 576,
+      "surah": "Al-Muddaththir",
+      "surahNumber": 74,
+      "juz": 29,
+      "startAyah": "74:18",
+      "endAyah": "74:47",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 577,
+      "surah": "Al-Muddaththir",
+      "surahNumber": 74,
+      "juz": 29,
+      "startAyah": "74:48",
+      "endAyah": "75:19",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 578,
+      "surah": "Al-Qiyaama",
+      "surahNumber": 75,
+      "juz": 29,
+      "startAyah": "75:20",
+      "endAyah": "76:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 579,
+      "surah": "Al-Insaan",
+      "surahNumber": 76,
+      "juz": 29,
+      "startAyah": "76:6",
+      "endAyah": "76:25",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 580,
+      "surah": "Al-Insaan",
+      "surahNumber": 76,
+      "juz": 29,
+      "startAyah": "76:26",
+      "endAyah": "77:19",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 581,
+      "surah": "Al-Mursalaat",
+      "surahNumber": 77,
+      "juz": 29,
+      "startAyah": "77:20",
+      "endAyah": "77:50",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 582,
+      "surah": "An-Naba",
+      "surahNumber": 78,
+      "juz": 30,
+      "startAyah": "78:1",
+      "endAyah": "78:30",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 583,
+      "surah": "An-Naba",
+      "surahNumber": 78,
+      "juz": 30,
+      "startAyah": "78:31",
+      "endAyah": "79:15",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 584,
+      "surah": "An-Naazi'aat",
+      "surahNumber": 79,
+      "juz": 30,
+      "startAyah": "79:16",
+      "endAyah": "79:46",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 585,
+      "surah": "Abasa",
+      "surahNumber": 80,
+      "juz": 30,
+      "startAyah": "80:1",
+      "endAyah": "80:42",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 586,
+      "surah": "At-Takwir",
+      "surahNumber": 81,
+      "juz": 30,
+      "startAyah": "81:1",
+      "endAyah": "81:29",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 587,
+      "surah": "Al-Infitaar",
+      "surahNumber": 82,
+      "juz": 30,
+      "startAyah": "82:1",
+      "endAyah": "83:6",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 588,
+      "surah": "Al-Mutaffifin",
+      "surahNumber": 83,
+      "juz": 30,
+      "startAyah": "83:7",
+      "endAyah": "83:34",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 589,
+      "surah": "Al-Mutaffifin",
+      "surahNumber": 83,
+      "juz": 30,
+      "startAyah": "83:35",
+      "endAyah": "84:25",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 590,
+      "surah": "Al-Burooj",
+      "surahNumber": 85,
+      "juz": 30,
+      "startAyah": "85:1",
+      "endAyah": "85:22",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 591,
+      "surah": "At-Taariq",
+      "surahNumber": 86,
+      "juz": 30,
+      "startAyah": "86:1",
+      "endAyah": "87:15",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 592,
+      "surah": "Al-A'laa",
+      "surahNumber": 87,
+      "juz": 30,
+      "startAyah": "87:16",
+      "endAyah": "88:26",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 593,
+      "surah": "Al-Fajr",
+      "surahNumber": 89,
+      "juz": 30,
+      "startAyah": "89:1",
+      "endAyah": "89:23",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 594,
+      "surah": "Al-Fajr",
+      "surahNumber": 89,
+      "juz": 30,
+      "startAyah": "89:24",
+      "endAyah": "90:20",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 595,
+      "surah": "Ash-Shams",
+      "surahNumber": 91,
+      "juz": 30,
+      "startAyah": "91:1",
+      "endAyah": "92:14",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 596,
+      "surah": "Al-Lail",
+      "surahNumber": 92,
+      "juz": 30,
+      "startAyah": "92:15",
+      "endAyah": "94:8",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 597,
+      "surah": "At-Tin",
+      "surahNumber": 95,
+      "juz": 30,
+      "startAyah": "95:1",
+      "endAyah": "96:19",
+      "isProstrationVerse": true
+    },
+    {
+      "page": 598,
+      "surah": "Al-Qadr",
+      "surahNumber": 97,
+      "juz": 30,
+      "startAyah": "97:1",
+      "endAyah": "98:7",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 599,
+      "surah": "Al-Bayyina",
+      "surahNumber": 98,
+      "juz": 30,
+      "startAyah": "98:8",
+      "endAyah": "100:9",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 600,
+      "surah": "Al-Aadiyaat",
+      "surahNumber": 100,
+      "juz": 30,
+      "startAyah": "100:10",
+      "endAyah": "102:8",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 601,
+      "surah": "Al-Asr",
+      "surahNumber": 103,
+      "juz": 30,
+      "startAyah": "103:1",
+      "endAyah": "105:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 602,
+      "surah": "Quraish",
+      "surahNumber": 106,
+      "juz": 30,
+      "startAyah": "106:1",
+      "endAyah": "108:3",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 603,
+      "surah": "Al-Kaafiroon",
+      "surahNumber": 109,
+      "juz": 30,
+      "startAyah": "109:1",
+      "endAyah": "111:5",
+      "isProstrationVerse": false
+    },
+    {
+      "page": 604,
+      "surah": "Al-Ikhlaas",
+      "surahNumber": 112,
+      "juz": 30,
+      "startAyah": "112:1",
+      "endAyah": "114:6",
+      "isProstrationVerse": false
+    }
+  ]
+}

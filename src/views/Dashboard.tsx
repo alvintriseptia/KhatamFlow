@@ -1,13 +1,17 @@
 import React from 'react';
 import { useProgressStore } from '@/store/progressStore';
+import { useMushaf } from '@/hooks/useMushaf';
 import { TodayView } from '@/components/dashboard/TodayView';
 import { ResumeCard } from '@/components/dashboard/ResumeCard';
 import { FastLogButton } from '@/components/dashboard/FastLogButton';
 import { PrayerSplitter } from '@/components/dashboard/PrayerSplitter';
+import ProjectionCard from '@/components/dashboard/ProjectionCard';
+import ProgressCharts from '@/components/charts/ProgressCharts';
 import './Views.css';
 
 export const Dashboard: React.FC = () => {
   const { goal, currentProgress, dailyGoal, logProgress } = useProgressStore();
+  const { getPageInfo } = useMushaf();
 
   if (!goal || !currentProgress || !dailyGoal) {
     return (
@@ -19,6 +23,9 @@ export const Dashboard: React.FC = () => {
 
   const nextPage = currentProgress.currentPage + 1;
   const isComplete = currentProgress.currentPage >= goal.mushaf.totalPages;
+
+  // Get metadata for the next page
+  const pageInfo = getPageInfo(nextPage);
 
   return (
     <div className="view-container">
@@ -32,10 +39,14 @@ export const Dashboard: React.FC = () => {
             <ResumeCard
               nextPage={nextPage}
               totalPages={goal.mushaf.totalPages}
+              surah={pageInfo?.surah}
+              juz={pageInfo?.juz}
             />
           )}
 
           <TodayView dailyGoal={dailyGoal} />
+
+          {!isComplete && <ProjectionCard />}
 
           {!isComplete && dailyGoal.pagesNeeded > 0 && (
             <>
@@ -47,6 +58,9 @@ export const Dashboard: React.FC = () => {
               <PrayerSplitter dailyPages={dailyGoal.pagesNeeded} />
             </>
           )}
+
+          {/* Progress Charts */}
+          <ProgressCharts />
         </main>
       </div>
     </div>

@@ -1,0 +1,114 @@
+.export-content {
+  margin-top: 16px;
+}
+
+.export-summary {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  background: var(--bg-primary, #000000);
+  border-radius: 10px;
+  margin-bottom: 16px;
+}
+
+.export-stat {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.export-stat-label {
+  font-size: 14px;
+  color: var(--text-secondary, #888888);
+}
+
+.export-stat-value {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-primary, #ffffff);
+}
+
+.export-btn {
+  width: 100%;
+  padding: 14px;
+  border-radius: 10px;
+  border: none;
+  background: var(--accent, #10b981);
+  color: #000000;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.export-btn:hover:not(:disabled) {
+  background: var(--accent-hover, #059669);
+  transform: translateY(-1px);
+}
+
+.export-btn:active:not(:disabled) {
+  transform: scale(0.98);
+}
+
+.export-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.export-spinner {
+  display: inline-block;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.export-info {
+  margin: 0;
+  padding: 12px;
+  font-size: 13px;
+  color: var(--text-secondary, #888888);
+  background: var(--bg-primary, #000000);
+  border-radius: 8px;
+  line-height: 1.5;
+}
+
+.export-empty {
+  padding: 24px;
+  text-align: center;
+}
+
+.export-empty p {
+  margin: 0;
+  font-size: 14px;
+  color: var(--text-secondary, #888888);
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+  .export-stat-label,
+  .export-stat-value {
+    font-size: 13px;
+  }
+
+  .export-btn {
+    font-size: 15px;
+    padding: 12px;
+  }
+
+  .export-info {
+    font-size: 12px;
+  }
+}

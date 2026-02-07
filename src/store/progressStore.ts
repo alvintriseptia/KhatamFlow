@@ -15,6 +15,8 @@ import {
   deleteLog as deleteLogDB,
   clearAllData
 } from '@/core/storage/db';
+import { useSettingsStore } from './settingsStore';
+import { triggerProgressNotifications, resetMilestones } from '@/core/notifications/notificationTriggers';
 
 interface ProgressState {
   // State
@@ -91,6 +93,9 @@ export const useProgressStore = create<ProgressState>((set, get) => ({
 
       set({ goal, currentProgress: progress });
 
+      // Reset milestone notifications for new goal
+      resetMilestones();
+
       // Calculate initial daily goal
       await get().recalculateDailyGoal();
     } catch (error) {
@@ -137,6 +142,9 @@ export const useProgressStore = create<ProgressState>((set, get) => ({
 
       // Recalculate daily goal
       await get().recalculateDailyGoal();
+
+      // Trigger notifications for milestones/completion
+      await triggerProgressNotifications(pageNumber, goal.mushaf.totalPages);
     } catch (error) {
       console.error('Failed to log progress:', error);
     }
@@ -151,7 +159,7 @@ export const useProgressStore = create<ProgressState>((set, get) => ({
     }
 
     try {
-      const maghribTime = "18:00"; // TODO: Get from settings
+      const maghribTime = useSettingsStore.getState().maghribTime;
 
       const newDailyGoal = calculateDailyGoal(
         goal.mushaf.totalPages,
@@ -248,6 +256,7 @@ export const useProgressStore = create<ProgressState>((set, get) => ({
   resetProgress: async () => {
     try {
       await clearAllData();
+      resetMilestones();
       set({
         goal: null,
         currentProgress: null,
