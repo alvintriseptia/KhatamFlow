@@ -42,10 +42,24 @@ function fetchPage(pageNum) {
             const firstAyah = ayahs[0];
             const lastAyah = ayahs[ayahs.length - 1];
 
+            // Extract all surahs on this page from the surahs object
+            const surahsOnPage = json.data.surahs ?
+              Object.values(json.data.surahs).map(s => ({
+                number: s.number,
+                name: s.englishName,
+                transliteration: s.englishNameTranslation,
+                revelationType: s.revelationType
+              })) :
+              [{
+                number: firstAyah.surah.number,
+                name: firstAyah.surah.englishName,
+                transliteration: firstAyah.surah.englishNameTranslation,
+                revelationType: firstAyah.surah.revelationType
+              }];
+
             resolve({
               page: pageNum,
-              surah: firstAyah.surah.englishName,
-              surahNumber: firstAyah.surah.number,
+              surahs: surahsOnPage,
               juz: getJuzForPage(pageNum),
               startAyah: `${firstAyah.surah.number}:${firstAyah.numberInSurah}`,
               endAyah: `${lastAyah.surah.number}:${lastAyah.numberInSurah}`,
@@ -84,8 +98,12 @@ async function generateAllPages() {
       // Add placeholder data if API fails
       pages.push({
         page: i,
-        surah: "Unknown",
-        surahNumber: 0,
+        surahs: [{
+          number: 0,
+          name: "Unknown",
+          transliteration: "Unknown",
+          revelationType: "Unknown"
+        }],
         juz: getJuzForPage(i),
         startAyah: "",
         endAyah: "",
