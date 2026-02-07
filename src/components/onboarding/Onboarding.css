@@ -1,0 +1,114 @@
+/* Mushaf Selector */
+.mushaf-selector {
+  margin-bottom: 2rem;
+}
+
+.mushaf-options {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.mushaf-option {
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.mushaf-option--selected {
+  border-color: var(--accent);
+  background-color: var(--accent-light);
+}
+
+.mushaf-option__header {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.mushaf-option__radio {
+  margin-top: 0.25rem;
+  width: 1.25rem;
+  height: 1.25rem;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.mushaf-option h3 {
+  margin: 0;
+  font-size: 1.125rem;
+}
+
+.mushaf-option p {
+  margin: 0;
+  font-size: 0.875rem;
+}
+
+/* Goal Setter */
+.goal-setter {
+  margin-bottom: 2rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-label {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: var(--text-primary);
+}
+
+.form-input {
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  background-color: var(--bg-secondary);
+  color: var(--text-primary);
+  font-family: inherit;
+}
+
+.form-input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.form-hint {
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+}
+
+.quick-select__buttons {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.quick-select__button {
+  padding: 0.5rem 1rem;
+  background-color: var(--bg-tertiary);
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  color: var(--text-primary);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.875rem;
+  transition: all 0.2s;
+}
+
+.quick-select__button:hover {
+  background-color: var(--bg-secondary);
+  border-color: var(--accent);
+}
+
+/* Start Page Picker */
+.start-page-picker {
+  margin-bottom: 2rem;
+}
+
+/* Text utilities */
+.text-secondary {
+  color: var(--text-secondary);
+}

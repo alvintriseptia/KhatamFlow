@@ -1,0 +1,191 @@
+/* Today View */
+.today-view {
+  margin-bottom: 1.5rem;
+}
+
+.today-view__header h2 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.today-view__content {
+  margin-top: 1rem;
+}
+
+.goal-main {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.goal-number {
+  font-size: 4rem;
+  font-weight: 700;
+  color: var(--accent);
+  line-height: 1;
+}
+
+.goal-number--urgent {
+  color: var(--warning);
+}
+
+.goal-label {
+  margin-top: 0.5rem;
+  font-size: 1.125rem;
+  color: var(--text-secondary);
+}
+
+.goal-stats {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.goal-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.goal-stat__value {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.goal-stat__label {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  margin-top: 0.25rem;
+}
+
+.goal-divider {
+  width: 1px;
+  height: 2rem;
+  background-color: var(--border);
+}
+
+.goal-complete,
+.goal-impossible {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.goal-celebration {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.goal-complete h3 {
+  margin: 0 0 0.5rem 0;
+  color: var(--success);
+}
+
+.goal-warning {
+  color: var(--warning);
+  margin-top: 0.5rem;
+}
+
+/* Resume Card */
+.resume-card {
+  margin-bottom: 1.5rem;
+}
+
+.resume-card__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.resume-card__header h3 {
+  margin: 0;
+  font-size: 1.125rem;
+}
+
+.resume-card__badge {
+  background-color: var(--accent);
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 1rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.resume-card__page {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.resume-card__page strong {
+  font-size: 1.5rem;
+  color: var(--accent);
+}
+
+.resume-card__details {
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
+
+.progress-bar {
+  height: 0.5rem;
+  background-color: var(--bg-tertiary);
+  border-radius: 0.25rem;
+  overflow: hidden;
+}
+
+.progress-bar__fill {
+  height: 100%;
+  background-color: var(--accent);
+  transition: width 0.3s ease;
+}
+
+/* Prayer Splitter */
+.prayer-splitter {
+  margin-bottom: 1.5rem;
+}
+
+.prayer-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.prayer-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem;
+  background-color: var(--bg-tertiary);
+  border-radius: 0.5rem;
+}
+
+.prayer-item__icon {
+  font-size: 1.5rem;
+  flex-shrink: 0;
+}
+
+.prayer-item__content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.prayer-item__name {
+  font-weight: 600;
+}
+
+.prayer-item__pages {
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+}
+
+/* Fast Log Button */
+.fast-log-button {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 1.125rem;
+  padding: 1.25rem 2rem;
+}
