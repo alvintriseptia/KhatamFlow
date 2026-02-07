@@ -94,18 +94,18 @@ KhatamFlow/
 - [x] Daily goal calculation
 
 ### Phase 2: Experience (In Progress)
-- [ ] Quran metadata (Surah/Juz/Ayah mapping)
-- [ ] Prayer-based goal splitting
-- [ ] History view with edit/delete
-- [ ] Completion projections
-- [ ] Dark mode toggle
+- [x] Quran metadata (Surah/Juz/Ayah mapping)
+- [x] Prayer-based goal splitting
+- [x] History view with edit/delete
+- [x] Completion projections
+- [x] Dark mode toggle
 
 ### Phase 3: Polish
-- [ ] Local notifications
-- [ ] Progress charts
-- [ ] Data export (CSV)
-- [ ] Performance optimization
-- [ ] Cross-browser testing
+- [x] Local notifications
+- [x] Progress charts
+- [x] Data export (CSV)
+- [x] Performance optimization
+- [x] Cross-browser testing
 
 ## 🤲 Built For Ramadan 2026
 
