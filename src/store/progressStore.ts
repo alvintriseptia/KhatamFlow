@@ -11,7 +11,6 @@ import {
   getDailyGoal,
   saveLog,
   getLogs,
-  updateLog as updateLogDB,
   deleteLog as deleteLogDB,
   clearAllData
 } from '@/core/storage/db';
@@ -31,8 +30,8 @@ interface ProgressState {
   initializeFromStorage: () => Promise<void>;
   setGoal: (goal: Goal) => Promise<void>;
   logProgress: (pageNumber: number, notes?: string) => Promise<void>;
+  logProgressRange: (startPage: number, endPage: number, notes?: string) => Promise<void>;
   recalculateDailyGoal: () => Promise<void>;
-  updateLog: (log: ProgressLog) => Promise<void>;
   deleteLog: (id: string) => Promise<void>;
   resetProgress: () => Promise<void>;
 }
@@ -150,6 +149,70 @@ export const useProgressStore = create<ProgressState>((set, get) => ({
     }
   },
 
+  // Log progress range (creates individual entries for each page)
+  logProgressRange: async (startPage: number, endPage: number, notes?: string) => {
+    const { currentProgress, goal } = get();
+
+    if (!currentProgress || !goal) {
+      console.error('Cannot log progress without goal and current progress');
+      return;
+    }
+
+    // Validate range
+    if (startPage > endPage) {
+      console.error('Start page must be less than or equal to end page');
+      return;
+    }
+
+    if (startPage < 1 || endPage > goal.mushaf.totalPages) {
+      console.error('Page range must be within valid page numbers');
+      return;
+    }
+
+    try {
+      const baseTimestamp = Date.now();
+      let currentPageInRange = currentProgress.currentPage;
+
+      // Create individual log entries for each page in the range
+      for (let page = startPage; page <= endPage; page++) {
+        const pagesRead = Math.max(1, page - currentPageInRange);
+
+        const log: ProgressLog = {
+          id: `log_${baseTimestamp}_${page}_${Math.random().toString(36).substr(2, 9)}`,
+          pageNumber: page,
+          timestamp: baseTimestamp + (page - startPage), // Slightly increment timestamp for ordering
+          pagesRead,
+          notes: page === endPage ? notes : undefined // Only add notes to the last entry
+        };
+
+        await saveLog(log);
+        currentPageInRange = page;
+      }
+
+      // Update current progress to the end page
+      const totalPagesInRange = endPage - currentProgress.currentPage;
+      const updatedProgress: CurrentProgress = {
+        currentPage: endPage,
+        lastUpdated: Date.now(),
+        totalPagesRead: currentProgress.totalPagesRead + totalPagesInRange
+      };
+
+      await saveProgress(updatedProgress);
+
+      // Update state
+      const logs = await getLogs();
+      set({ currentProgress: updatedProgress, logs });
+
+      // Recalculate daily goal
+      await get().recalculateDailyGoal();
+
+      // Trigger notifications for milestones/completion
+      await triggerProgressNotifications(endPage, goal.mushaf.totalPages);
+    } catch (error) {
+      console.error('Failed to log progress range:', error);
+    }
+  },
+
   // Recalculate daily goal
   recalculateDailyGoal: async () => {
     const { goal, currentProgress } = get();
@@ -175,50 +238,25 @@ export const useProgressStore = create<ProgressState>((set, get) => ({
     }
   },
 
-  // Update existing log
-  updateLog: async (log: ProgressLog) => {
-    try {
-      await updateLogDB(log);
-
-      // Recalculate current progress from all logs
-      const logs = await getLogs();
-      const { goal } = get();
-
-      if (!goal) return;
-
-      // Sort logs by timestamp
-      const sortedLogs = [...logs].sort((a, b) => a.timestamp - b.timestamp);
-
-      // Calculate current page and total pages read
-      let currentPage = goal.startPage - 1;
-      let totalPagesRead = 0;
-
-      for (const l of sortedLogs) {
-        currentPage = l.pageNumber;
-        totalPagesRead += l.pagesRead;
-      }
-
-      const updatedProgress: CurrentProgress = {
-        currentPage,
-        lastUpdated: Date.now(),
-        totalPagesRead
-      };
-
-      await saveProgress(updatedProgress);
-
-      set({ logs, currentProgress: updatedProgress });
-
-      // Recalculate daily goal
-      await get().recalculateDailyGoal();
-    } catch (error) {
-      console.error('Failed to update log:', error);
-    }
-  },
-
   // Delete log
   deleteLog: async (id: string) => {
     try {
-      await deleteLogDB(id);
+      // Get all logs first to find the page number being deleted
+      const allLogs = await getLogs();
+      const logToDelete = allLogs.find(log => log.id === id);
+
+      if (!logToDelete) {
+        console.error('Log not found');
+        return;
+      }
+
+      // Delete the selected log and all logs with page numbers >= the selected page
+      const logsToDelete = allLogs.filter(log => log.pageNumber >= logToDelete.pageNumber);
+
+      // Delete all identified logs
+      for (const log of logsToDelete) {
+        await deleteLogDB(log.id);
+      }
 
       // Recalculate from remaining logs
       const logs = await getLogs();

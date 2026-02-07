@@ -6,7 +6,7 @@ import LogEntry from './LogEntry';
 import './History.css';
 
 const HistoryList: React.FC = () => {
-  const { logs, updateLog, deleteLog } = useProgressStore();
+  const { logs, deleteLog } = useProgressStore();
 
   if (logs.length === 0) {
     return (
@@ -47,7 +47,6 @@ const HistoryList: React.FC = () => {
                 <LogEntry
                   key={log.id}
                   log={log}
-                  onEdit={updateLog}
                   onDelete={deleteLog}
                 />
               ))}

@@ -1,3 +1,21 @@
+/* Default to dark theme */
+:root {
+  --bg-primary: #000000;
+  --bg-secondary: #1a1a1a;
+  --bg-tertiary: #2a2a2a;
+  --text-primary: #ffffff;
+  --text-secondary: #b3b3b3;
+  --text-tertiary: #808080;
+  --border: #333333;
+  --accent: #10b981;
+  --accent-hover: #059669;
+  --accent-light: #064e3b;
+  --error: #ef4444;
+  --warning: #fbbf24;
+  --success: #10b981;
+  --shadow: rgba(255, 255, 255, 0.05);
+}
+
 /* Light theme */
 [data-theme='light'] {
   --bg-primary: #ffffff;
@@ -18,24 +36,6 @@
 
 /* Dark theme (OLED) */
 [data-theme='dark'] {
-  --bg-primary: #000000;
-  --bg-secondary: #1a1a1a;
-  --bg-tertiary: #2a2a2a;
-  --text-primary: #ffffff;
-  --text-secondary: #b3b3b3;
-  --text-tertiary: #808080;
-  --border: #333333;
-  --accent: #10b981;
-  --accent-hover: #059669;
-  --accent-light: #064e3b;
-  --error: #ef4444;
-  --warning: #fbbf24;
-  --success: #10b981;
-  --shadow: rgba(255, 255, 255, 0.05);
-}
-
-/* Default to dark theme */
-:root {
   --bg-primary: #000000;
   --bg-secondary: #1a1a1a;
   --bg-tertiary: #2a2a2a;

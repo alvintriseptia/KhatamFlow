@@ -125,11 +125,6 @@ export async function getLog(id: string): Promise<ProgressLog | undefined> {
   return await db.get('logs', id);
 }
 
-export async function updateLog(log: ProgressLog): Promise<void> {
-  const db = await initDB();
-  await db.put('logs', log);
-}
-
 export async function deleteLog(id: string): Promise<void> {
   const db = await initDB();
   await db.delete('logs', id);

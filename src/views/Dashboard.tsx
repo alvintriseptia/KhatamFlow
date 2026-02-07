@@ -10,7 +10,7 @@ import ProgressCharts from '@/components/charts/ProgressCharts';
 import './Views.css';
 
 export const Dashboard: React.FC = () => {
-  const { goal, currentProgress, dailyGoal, logProgress } = useProgressStore();
+  const { goal, currentProgress, dailyGoal, logProgress, logProgressRange } = useProgressStore();
   const { getPageInfo } = useMushaf();
 
   if (!goal || !currentProgress || !dailyGoal) {
@@ -52,7 +52,9 @@ export const Dashboard: React.FC = () => {
             <>
               <FastLogButton
                 currentPage={currentProgress.currentPage}
+                totalPages={goal.mushaf.totalPages}
                 onLogProgress={logProgress}
+                onLogProgressRange={logProgressRange}
               />
 
               <PrayerSplitter dailyPages={dailyGoal.pagesNeeded} />
