@@ -1,122 +1,121 @@
-# KhatamFlow - Adaptive Quran Tracker
+<div align="center">
 
-An adaptive Quran tracker designed to solve "Ramadan Burnout" by dynamically recalculating daily reading goals based on remaining pages and days.
+<img src="public/icons/icon.svg" alt="KhatamFlow Logo" width="120" />
 
-## ✨ Features
+# KhatamFlow
 
-- **Adaptive Algorithm**: Daily pages automatically recalculate after every log
-- **Local-First**: All data stored locally using IndexedDB
-- **Offline-Capable**: 100% functional without internet
-- **Low Friction**: Maximum 2 taps to log progress
-- **Privacy-Focused**: No tracking, ads, or social features
-- **PWA**: Installable as a Progressive Web App
-- **OLED Dark Mode**: Pure black theme for battery savings
+**Finish the Quran on your own pace — without the burnout.**
 
-## 🚀 Getting Started
+An adaptive Quran reading tracker that dynamically adjusts your daily goals so you stay consistent, not overwhelmed.
 
-### Prerequisites
+[Try It Now](https://khatamflow.netlify.app) | [Report Bug](https://github.com/alvintriseptia/KhatamFlow/issues)
 
-- Node.js 18+ and npm
+</div>
 
-### Installation
+---
+
+<div align="center">
+  <img src="docs/screenshots/02-dashboard.png" alt="Dashboard — Today's goal and progress" width="280" />
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/03-prayer-plan.png" alt="Prayer Plan — Pages split across 5 prayers" width="280" />
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/04-charts.png" alt="Charts — Progress over time" width="280" />
+  <br /><br />
+  <sub>Dashboard &bull; Prayer Plan &bull; Progress Charts — all in OLED dark mode</sub>
+</div>
+
+---
+
+## The Problem
+
+Every Ramadan, millions of Muslims set out to complete the Quran in 30 days. Most fall behind by week two, face an impossible backlog, and give up.
+
+**KhatamFlow fixes this.** Instead of a rigid "20 pages/day" schedule, it recalculates your daily goal after every reading session. Fall behind? The goal nudges up gently. Read ahead? It eases off. No guilt, no spikes, no burnout.
+
+## How It Works
+
+```
+Daily Pages = ceil( (Total Pages - Current Page) / Days Remaining )
+```
+
+That's it. One formula, recalculated after every log. The result:
+
+- **Behind schedule?** Daily goal increases *gradually* — no impossible catch-ups
+- **Ahead of schedule?** Daily goal decreases — you earned a lighter day
+- **Maghrib-based days** — respects the Islamic day boundary (sunset to sunset)
+- **Prayer splitting** — distributes pages across 5 daily prayers
+
+## Features
+
+| | Feature | Description |
+|---|---|---|
+| **Adaptive** | Smart Recalculation | Daily goal auto-adjusts after every session |
+| **Fast** | 2-Tap Logging | Log progress in under 3 seconds |
+| **Offline** | Works Anywhere | 100% functional without internet (PWA) |
+| **Private** | Zero Tracking | No accounts, no analytics, no ads |
+| **Visual** | Progress Charts | See your journey with clear visualizations |
+| **Flexible** | Prayer Splitting | Distribute pages across your 5 daily prayers |
+| **Dark** | OLED Dark Mode | Pure black theme for nighttime reading |
+| **Portable** | Data Export | Export your history as CSV anytime |
+
+<details>
+<summary><b>More screenshots</b></summary>
+<br />
+<div align="center">
+  <img src="docs/screenshots/01-onboarding.png" alt="Onboarding — 3-step setup" width="280" />
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/05-history.png" alt="History — Reading log" width="280" />
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/06-settings.png" alt="Settings — Theme, notifications, export" width="280" />
+  <br /><br />
+  <sub>Onboarding &bull; Reading History &bull; Settings</sub>
+</div>
+</details>
+
+## Quick Start
+
+### Use it now (no install needed)
+
+**[khatamflow.netlify.app](https://khatamflow.netlify.app)**
+
+Works on any device. Install as a PWA for the full experience.
+
+### Run locally
 
 ```bash
-# Install dependencies
+git clone https://github.com/alvintriseptia/KhatamFlow.git
+cd KhatamFlow
 npm install
-
-# Start development server
 npm run dev
-
-# Build for production
-npm run build
-
-# Preview production build
-npm run preview
 ```
 
-## 📱 Usage
+## Tech Stack
 
-### First-Time Setup
+| Layer | Technology |
+|---|---|
+| Framework | React 18 + TypeScript |
+| Build | Vite |
+| State | Zustand |
+| Storage | IndexedDB via `idb` |
+| PWA | vite-plugin-pwa |
+| Dates | date-fns |
 
-1. Choose your Mushaf type (default: Madinah 604 pages)
-2. Set your target completion date
-3. Choose your starting page (default: page 1)
+## Built for Ramadan 2026
 
-### Daily Usage
+KhatamFlow was built with one goal: make completing the Quran during Ramadan feel achievable, not stressful.
 
-1. Read your assigned pages
-2. Tap "✓ Finished Page X" to log progress
-3. Watch your daily goal automatically adjust
-4. Split reading across 5 daily prayers
+All data stays on your device. No sign-ups. No cloud. Just you and the Quran.
 
-## 🧮 The Algorithm
+---
 
-**Daily Pages = ⌈(Total Pages - Current Page) / Days Remaining⌉**
+<div align="center">
 
-The core innovation is the adaptive recalculation that runs after every log:
-- Behind schedule? Daily goal increases gradually
-- Ahead of schedule? Daily goal decreases
-- No dramatic spikes or impossible catches-ups
-- Maghrib-based day calculation (Islamic day starts at sunset)
+**[Start Your Journey](https://khatamflow.netlify.app)**
 
-## 🏗️ Tech Stack
+*"Indeed, this Quran guides to that which is most suitable"* — Quran 17:9
 
-- **Frontend**: React 18 + TypeScript + Vite
-- **State Management**: Zustand
-- **Storage**: IndexedDB via `idb` library
-- **PWA**: vite-plugin-pwa
-- **Date Utils**: date-fns
+</div>
 
-## 📁 Project Structure
+## License
 
-```
-KhatamFlow/
-├── src/
-│   ├── core/
-│   │   ├── algorithm/       # Core adaptive algorithm
-│   │   └── storage/         # IndexedDB wrapper
-│   ├── store/               # Zustand stores
-│   ├── components/          # React components
-│   ├── views/               # Main app views
-│   ├── types/               # TypeScript definitions
-│   └── assets/              # Styles and assets
-├── public/                  # Static assets
-└── dist/                    # Production build
-```
-
-## 🎯 Roadmap
-
-### Phase 1: MVP ✅
-- [x] Core adaptive algorithm
-- [x] IndexedDB storage
-- [x] Basic onboarding flow
-- [x] Fast log button
-- [x] Daily goal calculation
-
-### Phase 2: Experience (In Progress)
-- [x] Quran metadata (Surah/Juz/Ayah mapping)
-- [x] Prayer-based goal splitting
-- [x] History view with edit/delete
-- [x] Completion projections
-- [x] Dark mode toggle
-
-### Phase 3: Polish
-- [x] Local notifications
-- [x] Progress charts
-- [x] Data export (CSV)
-- [x] Performance optimization
-- [x] Cross-browser testing
-
-## 🤲 Built For Ramadan 2026
-
-Target release: Before Ramadan 2026
-
-## 📄 License
-
-MIT License - See LICENSE file for details
-
-## 🙏 Credits
-
-Built with the intention of making Quran reading during Ramadan more sustainable and stress-free.
-
-"Indeed, this Quran guides to that which is most suitable" (Quran 17:9)
+MIT
